@@ -1,0 +1,432 @@
+
+                      AST 422 -- S07 -- FINAL EXAM 
+
+                DUE: FRIDAY MAY 11, 9:00 am in my mailbox in room PSF-686
+
+
+       RULES:
+
+IN THE ALLOTTED TIME, PLEASE COMPLETE 6 QUESTIONS OF YOUR CHOOSING FROM THE SET
+OF 15 LISTED BELOW. TO MAKE SURE THAT ALL TOPICS ARE COVERED FAIRLY, I ASK YOU
+THAT YOU SELECT AT LEAST A MINIMUM NUMBER OF QUESTIONS FROM EACH OF THE THREE
+MAIN GROUPS, AS INDICATED BELOW. SO PLEASE READ ALL QUESTIONS BEFORE YOU START.
+
+ALL QUESTIONS HAVE EQUAL WEIGHT, TO BE ROUGHLY EQUALLY DISTRIBUTED AMONG EACH
+OF THE SUB-QUESTIONS. Hence, out of a total of 150 points, each of the 5
+questions that you choose will be worth 30 points, and each sub-question
+typically 6-10 points (for typically 5-3 sub-questions per question). 
+
+AS ALWAYS: Brevity is as much appreciated as the correct answer. Please do not
+give me more than 2-3 pages for each main question, if at all possible. 
+
+NOTE: Ho indicates the current value of the Hubble constant throughout, qo the
+current value of the deceleration parameter, Omega0 or Omega_m the current
+value of the density parameter, and t0 the current age of the Universe. For
+some questions you must assume a cosmology, I suggest we all use Ho=73km/s/Mpc,
+Omega_m=0.24, Omega_Lambda=Lambda=0.76, unless given otherwise. In most FRW type 
+questions, I will assume Omega_Lambda=0 for simplicity, so the answers can be
+found analytically --- in other questions we will use the ``real'' cosmology
+Ho=73, Omega_m=0.24, Omega_Lambda=Lambda=0.76. If you don't like solving these 
+questions for Omega_Lambda=0, you may solve them for Omega_Lambda=0.76, but then
+you have to use the numerical integration path. You may solve the questions for
+either Omega_Lambda, but please tell us upfront which Omega_Lambda you have
+chosen. 
+
+
+
+       GROUP A: SELECT 1--2 QUESTIONS
+
+ A-1) Consider the following 5 galaxies: A with v = 5000 km/s at distance R =
+100 Mpc; B with v = 10,000 km/s and R = 200 Mpc; C with v = 5000 km/s and R = 50
+Mpc; and D with v = 10,000 km/s and R = 100 Mpc; and E at z=1.5 with a measured
+age of 3.5--4.0 Gyr at that redshift. 
+
+A-1.a [2 pts] If your Universe only consisted of galaxies A and B, what would
+you conclude about the value of the Hubble constant and its error? 
+
+A-1.b [2 pts] If your Universe only consisted of galaxies C and D, what would
+you conclude about the value of the Hubble constant and its error? 
+
+A-1.c [3 pts] If your Universe consisted of galaxies A, B, C and D, what would
+you derive as the most likely value of the Hubble constant, if you also knew
+that the distance measurements to the galaxies were uncertain by at least 35%? 
+
+A-1.d [3 pts] If your Universe consisted of galaxies A, B, C and D, what would
+you be able to conclude about large scale motions and about the Hubble expansion
+(Ho), if you knew that HST had measured their distances to better than 15%
+accuracy? How large could large-scale streaming motions be in such a Universe? 
+
+A-1.e [5 pts] Compute the age of the Universe if Ho=73 km/s/Mpc and Omega_m=0.
+Roughly what would this age be for Omega_m=0.24, 1 and 2 (Omega_Lambda=0 in all
+cases)? Please sketch the expansion or scale-factor of the Universe as function
+of cosmic time for these different values of Omega_m. For which value of
+Omega_m do you get the oldest Universe? 
+
+A-1.f [15 pts] Galaxy E is at a redshift z=1.5, where the Universe was only 25%
+of its current age (for Omega_m=1, Omega_Lambda=0), and was measured to have a
+stellar population age of 3.5--4.0 Gyr at that redshift. Discuss what problems
+this poses for certain values of Ho. How does this compare to the globular
+cluster age problem (assuming the same values of Ho and Omega_m)? If Omega_m=1,
+what values of Ho would be implied by galaxy E? Is this consistent with the
+most recent Ho measurements? What other other solutions to this problem can you
+think of?
+
+
+A-2.a Give a brief discussion (telegram style, no more than two pages) about
+what the major uncertainties are in determining the Hubble constant. Discuss in
+particular how Large Scale Structure can and has affected the value of Ho. 
+
+A-2.b. Out to what distances/on what scales do you know for sure that the
+Universe is not homogeneous and isotropic, and at what distances/on what scales
+should the Universe be homogeneous and isotropic? Document your answer. 
+
+A-2.c Describe briefly the differences and merits of the Cold Dark Matter (CDM)
+and Hot Dark Matter (HDM) models of galaxy formation. Discuss briefly the major
+observational pieces of evidence in favor of/against CDM and in favor of/against
+HDM. 
+
+
+A-3.a Derive from scratch a period - Luminosity relation for Cepheids, using
+what you know about stellar structure (polytrope models etc), the stellar
+mass-luminosity relation, the relation between bolometric absolute magnitude
+and M_V, and the Hertzsprung Russell diagram. Give the relevant intermediate
+steps, and derive: 
+
+log P = (0.5 h + 0.3) M_V + (0.5 hd + 0.3d + 3 a) (B-V) + const. 
+
+A-3.b Discuss this result. What does each term mean, and how does it apply to
+the distance scale problem?
+
+A-3.c Approximately how is the zero-point in the Cepheid distance scale affected
+by dust? How does dust quantitatively affect the zero-point in the Cepheid
+distance scale? How do (HST) distance measurements that use Cepheids attempt
+to correct for this?
+
+A-3.d Derive for a simply rotating spiral galaxy disk, using Kepler's laws, the
+Tully-Fischer relation: Luminosity L proportional to (Delta v)^4, where v in
+km/sec. Discuss your assumptions, how does this apply to the distance scale
+problem?
+
+
+A-4) Describe briefly FOUR DIRECT methods for the determination of Ho. Describe
+for each method roughly how it works, what the % uncertainties are, and what
+the major causes for these uncertainties are. When describing these four
+methods, discuss at least the following:
+
+A-4.a) A method based on standard candles.
+
+A-4.b) A method based on standard rods.
+
+A-4.c) A method based on a physical model of hot gases.
+
+A-4.d) A method based on the effects of large masses on the path of light rays.
+
+
+A-5) Describe how the determination of the Hubble constant may be affected by:
+
+A-5.a The Malmquist bias. You may assume a Schechter or a Gaussian galaxy LF.
+
+A-5.b Significant Large Scale Structure in the direction in which you are
+measuring Ho.
+
+A-5.c Significant large scale streaming motions (or a ``Great Attractor'') in the
+galaxy distribution. 
+
+
+A-6: Define a problem of your choosing in nearby extragalactic astronomy and
+cosmology (topics: distance scale, large scale structure, etc.), and solve it.
+You will be graded on this question for how well you pose the problem (25%), how
+relevant it is to cosmology (25%), and how well you solve it (50%). 
+
+
+
+       GROUP B: SELECT 2--3 QUESTIONS
+
+
+B-1.a Show that for all world models with Omega_Lambda=0, we have essentially
+qo=1/2 or Omega_m=1 shortly after creation, i.e. when R(t) --> 0 for t --> 0.
+Show that this is the case NOT ONLY for k=0, but also for k=-1 and k=+1.
+Discuss the relevance of this result. (You may assume reasonable results from
+previous homework questions. HINT: this issue is related to the flatness
+problem in inflation). 
+
+B-1.b Sketch the look-back time tau(z) for Omega_m=0, 0.1, 1.0, 2.0. 
+
+B-1.c Show that the Age of the Universe t0 = 1.0 / Ho for Omega_m=0.0 
+                                        t0 = 2/3 / Ho for Omega_m=1.0
+                                        t0 = 0.577/Ho for Omega_m=2.0
+assuming Omega_Lambda=0 in all cases for simplicity.
+
+
+B-2.a Assume that the cosmic time can be parametrized as function of the
+``epicyclic'' angle Theta, which is a monotonic function of cosmic time, and
+assume that:
+COS(Theta0) = (2 - Omega_m)/Omega_m
+COS(Theta1) = (z + COS(Theta0))/(1+z),
+
+where COS==cosine for k=+1 (Omega_m=2 or qo=1; Omega_Lambda=0) and ==cosh for
+k=-1 (Omega_m=0 or qo=0; Omega_Lambda=0). Show that the look-back time as
+function of the total age of the Universe can be written as: 
+
+tau(z)/t0 = 1 - [ (Theta1 - sin(Theta1)) / (Theta0 - sin(Theta0)) ] for k=+1
+tau(z)/t0 = 1 - [ (sinh(Theta1) - Theta1)/ (sinh(Theta0) - Theta0)] for k=-1,
+
+and derive the product t0 x Ho in both cases. 
+
+B-2.b For general values of Omega_m or qo, show that the look-back time as
+function of redshift can be written as: 
+
+tau(z)=qo/[Ho (2qo-1)^3/2]x[Theta0-Theta1 + sin (Theta1)-sin (Theta0)] for k=+1
+tau(z)=qo/[Ho (1-2qo)^3/2]x[Theta1-Theta0 + sinh(Theta0)-sinh(Theta1)] for k=-1
+
+B-2.c Derive the special cases tau(z) = 2/3Ho [(1+z)^3/2 - 1]/[(1+z)^3/2] for
+Omega_m=1 or qo=1/2 (assuming Omega_Lambda=0) and tau(z) = z/[Ho (1+z)] for
+Omega_m=0 or qo=0 (assuming Omega_Lambda=0). Sketch tau(z) for relevant values
+of Omega_m in the range Omega_m=0--2 (or qo=0--1).
+
+
+B-3.a Using the Mattig equation, show that the observed angular size Theta (in
+arcsec) of an object of physical size Y (in kpc) at redshift z goes as:
+
+Theta = k Y (1+z) / (Ro r)
+
+where (Ro r) is the distance of the object as seen by the observer, and k is
+some arbitrary constant. 
+
+B-3.b Express Theta in units of (Y Ho/c) as a function of redshift z for the
+case Omega_m=0 or qo=0 and the case Omega_m=1 or qo=0.5 (assuming
+Omega_Lambda=0 in both cases).
+
+B-3.c Sketch Theta(z) for the cases Omega_m=0, 1 and 2 (or qo=0, 0.5, and 1),
+and determine for Omega_m=0 and 1 (or qo=0 and qo=0.5) the value of the
+redshift at which Theta will appear the smallest (assuming Omega_Lambda=0 in all
+cases). 
+
+B-3.d What is the physical size scale of a CBR fluctuation of 10' diameter at
+z=1100 for Omega_m=0, 1 and 2 (pr qo=0, 0.5, and 1; Omega_Lambda=0 in all
+cases)?  What is it for the cosmology Omega_m=0.3 and Omega_Lambda=0.7? At what
+angular scales do you expect the next generation of microwave satellites 
+PLANCK to see most structure in the CBR, in terms of Delta_T/T? Document
+your answer. 
+
+
+B-4) In all of the following sub-questions, make drawings of the run of the
+relevant parameter with redshift for various values of Omega_m=0--2 (or qo=0--1;
+assuming Omega_Lambda=0) and discuss the results. If you wish, you may do this
+for the more complicated case of Omega_m+Omega_Lambda=1 for various values of
+Omega_m.  Where necessary, you may assume that objects have a power-law
+spectrum with spectral index alpha. 
+
+B-4.a Discuss how the luminosity distance depends on redshift. 
+
+B-4.b Discuss how the volume element available per unit redshift depends on
+redshift. Discuss at least two reasons why there may be a decline in the 
+observed quasar and young galaxy density for z>2--3. 
+
+B-4.c Discuss how the observed integrated bolometric and monochromatic flux of
+an object of fixed standard spectrum depends on redshift. 
+
+B-4.d Discuss how the observed bolometric and monochromatic surface brightness
+of an object of fixed standard spectrum depends on redshift. 
+
+B-4.e Discuss how the angular size of an object of fixed metric linear size
+depends on redshift. 
+
+
+B-5.a Show why the matter density in the post-recombination Universe scales as
+(1+z)^3, and why the radiation density has scaled since then -- and even before
+then -- as (1+z)^4. What does this mean for the shape of the Cosmic Background
+Radiation spectrum and for the CBR temperature as function of (1+z)? 
+
+B-5.b Show qualitatively (i.e. never mind the exact physical constants) why the
+Jeans mass of a spherical clouds of hot matter goes as T^-3 before
+recombination, and as T^3/2 after recombination. Discuss what -- as a
+consequence -- the typical masses are of gas clouds that first fragment into
+stars or groupings of stars in the early Universe. 
+
+B-5.c Discuss briefly why the faint galaxy two-point correlation function has an
+amplitude that is so low. What does this tell you about the redshift
+distribution of the faint blue galaxy population and about the clustering of
+faint galaxies (and its evolution, or lack thereof). 
+
+
+B-6.a: A light source in a flat universe has a redshift z when observed at a
+time t_0. Show that the observed redshift changes with time at a rate of:
+
+dz/dt_0  =  H_o (1+z) -  H_o (1+z)^[3(1+w)/2]
+
+where w = 0 for matter+vacuum-energy dominated universes (you may assume w=0). 
+For what values of w does the redshift decrease with time? For what values of
+w does the redshift increase with time?
+
+B-6.b: Suppose you are in a flat, matter-only universe that has a Hubble
+constant Ho=73 km/sec/Mpc. You observe a galaxy wth redshift z=1.000000. How
+long will you have to be observing this galaxy from Earth to see its redshifts
+change by one part in 10^6 ? [Use th results from 6.a]
+
+
+B-7: Define a problem of your choosing in cosmology and the early universe 
+(topics: expansion, FRW models, geometry, observational distinction between the
+various cosmological models, etc), and solve it. You will be graded on this
+question for how well you pose the problem (25%), how relevant it is to
+cosmology (25%), and how well you solve it (50%). 
+
+
+
+       GROUP C: SELECT 2--3 QUESTIONS
+
+
+C-1.a For a population of cosmic radio sources emitting radiation with an
+assumed constant luminosity or radio power P (in W/Hz) and constant space
+density (in No/Mpc^3), derive for the Euclidean case the source count N(S),
+where N is the number of sources (per ster rad) with observed flux density
+greater than some value S (measured in Jy=10^-26 W/Hz/m^2). 
+
+C-1.b What is the logarithmic slope of the source counts in flux units (S), and
+in magnitude units [m = -2.5 log10(S) + const] for this Euclidean case? Sketch 
+this together the radio source counts observed by Ryle et al. and the optical
+galaxy counts by many recent observers. What are the actual observed slopes at
+the bright end of the counts in both radio and optical? How do you interpret
+the slopes being different from question a? Discuss all possible reasonable
+answers. 
+
+C-1.c At approximately what magnitude do the B-band galaxy counts make a
+significant change in slope (slope changing from approximately what value to
+what other value)? Calculate schematically the contribution of each magnitude
+bin of the B-band galaxy counts to the Extragalactic Background Light (EBL) for
+10<B<30 mag. At which magnitude do the B-band galaxy counts contribute maximally
+to the EBL? How can this be interpreted in terms of their redshift distribution,
+and what does this imply for galaxy formation/evolution scenarios? 
+
+
+C-2.a Discuss why it was -- in hindsight -- not surprising that in the deepest
+available HST fields (~50 hr exposures in both HDF's), faint galaxies were seen
+down to V,I=30 mag which are generally quite compact, with scale-lengths r_hl =
+0.1--0.3". Discuss why the most compact objects are relatively easy to detect
+with HST, what observational selection effects have to be overcome, and how
+their flux depends on the various factors of (1+z). 
+
+C-2.b The Next Generation Space Telescope (NGST) is an instrument currently
+planned for launch in 2007. It will have an 8 meter (segmented mirror) and a
+rich array of optical and infrared camera's and spectrographs. Estimate how
+faint this telescope can see in a 1000 hr exposure (Hint: compare to what the
+2.4 meter HST can do with its 50 hr exposures in the HDF in V and I). 
+
+C-2.c Assume the IR detectors are good enough that similar sensitivities can be
+obtained in the near-IR JHK bands. For Ho=73 and Omega_m=0.24, compute out to
+which redshift this telescope can see AGN (M_V=-25 and r_hl<0.1 pc), L* galaxies
+(M_V=-22 and r_hl=5 kpc), sub-galactic objects (M_V=-17 and r_hl=0.1 kpc),
+supernovae (M_V=-19), and globular clusters (M_V=-10 and r_hl=1 pc). Assume 
+for simplicity that all these objects are young and therefore blue with flat 
+power-law spectra (alpha=0 or 1), so that K-corrections are straightforward. 
+[Note: You need to get the answer to question b right to answer c correctly.]
+
+C-2.d What are likely the only objects that the NGST will be able to see at
+z>10? Argue your answer and mention at least two reasons why this category of
+object is favored above all the others. (You may assume that AGN form after at
+least one galactic free fall time has passed). 
+
+
+C-3.a Consider a stellar population of 10^10 Msun in total, all born at the same
+time in the very early history of a galaxy, and following a Salpeter IMF
+between 0.08 M_sun<M<100 M_sun -- with no stars forming outside this range.
+Roughly how large a fraction of the stars in this galaxy will go off in
+Supernovae? How many stars is this? How often do they go off as SNe? 
+
+C-3.b Roughly when did this Supernovae phase happen during the evolution of the
+galaxy? What redshift range does this roughly correspond to, if the entire
+galaxy formed within one free fall time after the Big Bang? 
+
+C-3.c Sketch qualitatively how the various stellar populations that develop in
+the HR diagram (i.e. the MS, RGB, HB, AGB, P-AGB, etc) during the evolution of
+this galaxy contribute to its total galaxy light in the Johnson filters
+UBVRI+JHK, as well as in the far UV (around 1500 and 2500 A). Briefly discuss
+which component dominates each filter and why. 
+
+C-3.d Compute the probability that this galaxy is seen with a supernovae, if it
+were discovered at very high redshift by the HST or NGST. [You need to know the
+answer to question a and b to answer d]. 
+
+
+C-4.a Discuss briefly how the integrated optical/near-IR spectra of galaxies
+depend on the age of their dominant stellar population. Make a schematic drawing
+of their spectra. How does this affect the K-correction we derive for such
+galaxies?
+
+C-4.b Discuss briefly how the integrated optical/near-IR spectra of galaxies
+depend on the past star-formation history. Make a schematic drawing of their
+spectra for various assumed (cartoon-like) star-formation histories. 
+
+C-4.c Discuss how the answers of questions a and b are connected: what is the
+physical cause for this connection? How can we best measure galaxy ages?
+
+
+C-5.a Sketch and discuss how the galaxy counts determined as function of Hubble
+type enable us to constrain the galaxy luminosity function (LF) and its
+evolution with cosmic epoch.
+
+C-5.b What is the major uncertainty in these exercises? How can we break this
+degeneracy by measuring the redshifts or the redshift distribution of faint
+galaxies? 
+
+C-5.c Discuss evidence in favor of, and evidence against the premise that 
+faint blue galaxies are primarily lower-luminosity (i.e. L<L* in the LF)
+objects of irregular morphology and with sizes typically smaller than those of
+NGC galaxies seen today. What does this mean for the formation scenario of
+galaxies? 
+
+
+C-6: You observe a quasar at a redshift of z=5.0 and determine that the observed
+light flux from the quasar varies on a timescale delta(t_o) = 3 days. If the
+observed variation in flux is due to a variation in the intrinsic luminosity of
+the quasar, what was the variation timescale delta(t_e) at the time the light
+was emitted? For the light of the quasar to vary on a timescale delta(t_e), the
+bulk of the quasar light must come from a region of physical size R=<R_max = 
+c.delta(t_e) . What is the angular size of R_max in the standard model? How
+would you go about observing this?
+
+
+C-7. In a flat Universe with Ho=73 km/s/Mpc, you observe a galaxy at a z=6. 
+
+C-7.a What is the current proper distance to the galaxy, d_p(t_0), if the
+universe only contains radiation?
+
+C-7.b What is d_p(t_0) if the Universe only contains matter?
+
+C-7.c What is d_p(t_0) if the Universe only contains a cosmological constant?
+
+C-7.d What was the proper distance at the time the light was emitted, 
+d_p(t_e), if the universe only contains radiation?
+
+C-7.e What was the proper distance at the time the light was emitted, 
+d_p(t_e), if the universe only contains matter?
+
+C-7.f What was the proper distance at the time the light was emitted, 
+d_p(t_e), if the universe only contains a cosmological constant?
+
+
+C-8 The surface brightness SB of an astronomical object is defined as its
+observed flux divided by its angular area: SB = f/(delta theta)^2. 
+
+C-8.a For a class of objects that are both standard candles and standard
+yardstick, what is SB as a function of redshift in the case z<<1?
+
+C-8.b For a class of objects that are both standard candles and standard
+yardstick, what is SB as a function of redshift in the case z>>1?
+
+C-8.c Would the SB of this class of object be useful way of determining the
+deceleration parameter qo? Why or why not?
+
+C-8.d Discuss the grave cosmological consequences of your answer in C-8.b. Why
+do you think observations with HST at z>>5 are so hard? What do you think
+objects that JWST will see at z=15 will look like to this telescope --- resolved
+or unresolved? Document your answer carefully.
+
+
+C-9: Define a problem of your choosing in galaxy formation and evolution
+(topics: galaxy formation, galaxy evolution, AGN evolution, structure
+formation, clustering evolution, the Intergalactic Medium etc), and solve it.
+You will be graded on this question for how well you pose the problem (25%),
+how relevant it is to cosmology (25%), and how well you solve it (50%). 
+
+

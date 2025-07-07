@@ -1,0 +1,85 @@
+Hi Mini: 
+
+[final notes -- version 2 --- with special thanks to our AST 322 TAs Greg Vance
+and Scott Tompkins for all their diligent help to make this work!]
+
+Here a few lessons from Tuesday/Thursday's (Mar 3/5) AST 322 class using Zoom:
+
+(see http://windhorst322.asu.edu/ and Links button for details).
+
+Count on at least 10 min before class for all this to work smoothly: 
+
+1) Turn both Zoom Sound and Camera on. If you don't turn the camera on when you
+first join, or you will have to leave the meeting in order to turn it on 
+later. The instructor must stay close (at arm's length) from the Mac camera (the
+green light), since that is also where the Mac microphone resides. Otherwise
+your sound will dropout if you move around during the lecture. 
+
+2) Make sure all students have their Zoom microphone on mute to prevent noise
+and audio feedback. Tell them to only unmute if they are asking a question. If
+someone unmutes and doesn't realize it, you can force-mute them in Zoom (but
+then they can no longer ask questions later). 
+
+3) Make sure to have PDF or JPG copies of all you lecture notes or figures
+which you can share via Zoom Screen Share. In our case, these are available via
+the ``Lab Scripts'' button (under the /figs/ or /notes/ subdirs). Recordings of 
+my lectures are also available there. 
+
+4) Questions can also be entertained during the lecture using the Zoom text 
+chat window, which the TA can moderate during class (since the instructor is
+busy teaching). This is a good way to take questions, since having everyone 
+turn on their microphone one-at-a-time is impossible to coordinate.
+
+Having a second Mac screen talking to the same computer in every classroom
+would be very helpful for many purposes: a) to monitor and answer student
+questions posed via Zoom; b) To have a repository of PDF files open at the
+same time, which makes teaching via Zoom (much) more efficient, since the AST
+322 Relativity and Cosmology course requires to show (sometimes complicated)
+formulae and graphs at the same time.
+
+5) The TAs can also take class attendance via Zoom, logging all students who
+have a Zoom Window open (in our case attendance is worth a small amount of
+credit). Tell the students to use their actual names as their Zoom screen 
+names, so that can you identify them for attendance. This is also needed for
+in-class extra credit that we give for excellent questions and/or answers. 
+
+6) Given the significant number of Relativity H/W sets, homework in our AST 322
+gets normally handed in by stapled paper in person. For Zoom class attendees, we
+will arrange that their PDF scans of the H/W sets can be Emailed to a special
+TA Email account. Or we may setup a Google Drive link, where H/W can be dumped
+(not clear if students can then see everyone else's H/W, so that may not work). 
+
+7) Some of my students have already asked for absences during the semester,
+unrelated to corona virus, in most cases for personal or intramural reasons.
+Zoom can also be requested in such cases.
+
+So in short, teaching in-person classes on-line only (for a period of time)
+would work, with a somewhat reduced initial efficiency that can likely be 
+overcome once we get better at it. Having a second Mac screen talking to the
+same computer in every classroom (or office) would be very helpful, if not
+mandatory, if and when Zoom or Zoom-only is going to be used for a longer
+period of time. And, the TAs are essential to help make all this work.
+
+That's it for now,
+
+Dr. Rogier A. Windhorst
+Regents' and Foundation Professor
+JWST Interdisciplinary Scientist
+School of Earth & Space Exploration
+Street: 450 E. Tyler Mall, Room PSF-686
+Office: 550 E. Tyler Mall, Room GWC-508
+Arizona State University
+P.O. Box 871404
+Tempe, AZ 85287-1404, USA
+
+Tel: +1-480-965-7143 or 9416 or 8950 or 5081
+FAX: +1-480-965-6362
+Email: Rogier.Windhorst@asu.edu or Rogier.Windhorst@gmail.com
+
+http://sese.asu.edu  or  http://www.jwst.nasa.gov 
+
+https://webbtelescope.org/contents/news-releases/2018/news-2018-23/
+
+https://asunow.asu.edu/20180425-discoveries-see-first-born-stars-universe
+
+

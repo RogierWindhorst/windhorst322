@@ -1,0 +1,79 @@
+Dear AST 322 students:
+
+[Note this Email is somewhat different from the one of last Friday]:
+
+You presumably all have seen the Email from the ASU administration that, where
+possible, all classes including the in-person will be taught via Zoom for a
+number of weeks, until the corona virus subsides. They asked me to send you the
+following Email text verbatim:
+
+`` As I shared in my last email, our class, which is scheduled for Tu March 17, 
+3:00-4:15 pm will meet as scheduled via Zoom. If you are new to using Zoom, 
+there are detailed instructions on how to use that tool on: 
+provost.asu.edu/remote/students.
+
+I strongly encourage you to read the instructions found on that site well before 
+class to ensure that you can participate in the class. If you have any questions, 
+please let me know. See you on Zoom. ''
+
+Fortunately, we already tested out teaching the class via Zoom the week
+before Spring break. We are very serious about making this work, and to
+give you the best possible AST 322 class, despite these circumstances. 
+
+Hence, we added URLs added to our class web page: http://windhorst322.asu.edu/ 
+(Click on Links) to make all this happen. A few items to note thus far 
+(some have changed from Thursday's Email):
+
+1) We will continue to hold both our class (see Syllabus, Schedule, Lab Scripts)
+and office hours (see Contacts) via the same Zoom link on the Links page during 
+the regular posted hours (Note: The new Zoom link listed is now the same as on 
+Canvas). 
+
+NEW COMMENTS:
+
+WARNING: Since many people will be using Zoom in the next few weeks, expect 
+delays and slow speeds. To optimize speed and minimize the chance of malfunctions, 
+ALWAYS turn off your a camera in Zoom, and always MUTE your sound to avoid 
+interference, unless you are invited to ask a question (then unmute yourself while 
+asking the question, and mute yourself again right afterwards). 
+
+If internet or Zoom speeds are excessively slow for where you are Zooming in from,
+please dial in via one of the above two PHONE numbers (1-669 ... or 1-646 ...).
+For this to work, you MUST pull over all of my PDF Notes files for all of Ryden's 
+chapters as posted under Lab Scripts and http://windhorst322.asu.edu/notes/ .
+I WILL teach such that even if you never have video but just voice via you phone, 
+but you do have my posted lecture notes, that you will be able to follow the class.
+(We are NASA, we always have a backup solution!).
+
+So please make sure to get all my PDF Notes files. They are unlikely to change much.
+
+2) We will continue with our planned homework (HW) sets and term projects (TP)
+(see txt file on Lab Scripts page). Continue to do all your H/W on (hand)written
+single sided pages with your name + ASU-ID number and submission date/time
+written on top. Same for the upcoming TP, but please use a word processor for
+this, which should produce a PDF file for your TP. Then scan each HW into a single
+PDF file with any ASU library printer that can Email the PDF to you, or make a
+single PDF from your H/W pages that you scan with the apps posted on the Links
+page.
+
+3) Then Email all your HW PDF files to: ast322homework@gmail.com by the posted
+deadlines (see file ast322s20_suggestedHWquestions.txt on Lab Scripts page). By
+Apr 28 (see Schedule page), Email your TP PDF to ast322homework@gmail.com. For
+both HW and TP PDFs, use exclusively unique file names that incorporates your
+name + submission date and time (see Links page), e.g.:
+ast322_Firstname_Lastname_HW5_1-4_17mar20_1230pm.pdf or
+ast322_Mary_Doe_TP_27apr20_430pm.pdf. Never include empty spaces in any file
+name, but use _ (underscores) instead. Please do NOT Email your HW or TP PDF
+files to the TAs or Instructor Email addresses. File formats other than PDF will
+not be accepted. If you cannot produce a PDF file, your TA will accept the usual
+paper copy in their mailbox. Any good Doc file can be simply converted to PDF. 
+
+Will discuss details during regular class time via Zoom on Tuesday Mar 17, 3:00
+pm. 
+
+Thank you very much for your understanding and patience during this difficult time. 
+Together, we WILL make this all work, and we will make you succeed!
+
+Rogier Windhorst, Gregory Vance and Scott Tompkins.
+
+

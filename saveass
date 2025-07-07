@@ -1,0 +1,14 @@
+# Saves all teaching related files of current semester
+
+cd /Users/raw/teach/ast322s24/
+pwd
+ls -la *
+
+UNSAFE
+\cp -pr /Users/raw/teach/ast322s24/* /hub2/backup/raw/teach/ast322s24/.
+safe
+
+echo "Your AST 322 Spring 2024 ass has been saved, Master"
+
+
+exit

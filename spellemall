@@ -1,0 +1,18 @@
+cd /Users/raw/teach/ast322s19/
+
+ispell contacts.html
+
+ispell labs.html 
+
+ispell links.html 
+
+ispell menu.html 
+
+ispell schedule.html 
+
+ispell syllabus.html
+
+ispell welcome.html
+
+
+exit

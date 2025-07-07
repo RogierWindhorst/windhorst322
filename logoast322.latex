@@ -1,0 +1,118 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%        Public Talk to the JWST PROJECT AT GSFC, OCT 3, 2003                  %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Requires Latex2e, not latex2.09 !
+
+\documentclass{article}
+
+%%% \documentstyle[psfig]{article}
+
+\usepackage[dvips]{graphicx,color}
+
+\usepackage{color} 
+\usepackage{graphics}
+\usepackage{latexsym}
+\usepackage{psfig} 
+\psdraft 
+\usepackage{rotating} 
+
+\input texinit.latex
+
+%%% Preamble...
+\setlength{\textwidth}{10.0in}
+\setlength{\textheight}{8.0in}
+\setlength{\oddsidemargin}{-0.5in}
+\setlength{\evensidemargin}{\oddsidemargin}
+%%% \setlength{\topmargin}{-0.0in}
+\setlength{\topmargin}{-0.5cm}
+
+%%% User definitions...
+\newlength{\txw}
+\setlength{\txw}{\textwidth}
+\newlength{\txh}
+\setlength{\txh}{\textheight}
+%%% \newcommand{\arcsec}{\ensuremath{''}}%
+%%% \newcommand{\arcmin}{\ensuremath{'}}%
+%%% \newcommand{\micron}{\mbox{$\mu$m}}%
+
+\newcommand{\ar}{$\Longrightarrow$}
+\newcommand{\lt}{$\leadsto$}
+%%% \newcommand{\bul}{$\bullet$\ }
+
+%%% define some non-standard colors...
+\definecolor{navy}{rgb}{0,0,0.63}
+\newcommand{\navy} {\color{navy}}
+\definecolor{lightcyan}{rgb}{0.5,1,1}
+\newcommand{\lightcyan} {\color{lightcyan}}
+\definecolor{lblue}{rgb}{0.5,1,1}
+\newcommand{\lblue} {\color{lblue}}
+\definecolor{lightyellow}{rgb}{1,1,0.5}
+\newcommand{\lightyellow} {\color{lightyellow}}
+\newcommand{\white}       {\color{lightyellow}}
+\definecolor{brightred}{rgb}{1,0.5,0}
+\newcommand{\brightred} {\color{black}}
+
+ \definecolor{red}   {rgb}{1,0.0,0.0}
+ \newcommand{\red}   {\color{red}}
+%\definecolor{green} {rgb}{0.6,1.0,0.1}
+ \definecolor{green} {rgb}{0.7,1.0,0.0}
+ \newcommand{\green} {\color{green}}
+%\definecolor{blue}  {rgb}{0.0,0.6,1.0}
+ \definecolor{blue}  {rgb}{0.0,0.7,1.0}
+ \newcommand{\blue}  {\color{blue}}
+ \definecolor{black} {rgb}{0.0,0.0,0.0}
+ \newcommand{\black} {\color{black}}
+
+%\definecolor{lbrown}{rgb}{0.2,0.2,0.0}
+%%% \definecolor{lbrown}{rgb}{0.5,0.3,0.0}
+ \definecolor{lbrown}{rgb}{0.7,0.5,0.0}
+ \newcommand{\lbrown}{\color{lbrown}}
+ \definecolor{brown} {rgb}{0.1,0.1,0.0}
+ \newcommand{\brown} {\color{brown}}
+ \definecolor{orange}{rgb}{1.0,0.5,0.0}
+ \newcommand{\orange}{\color{orange}}
+ \definecolor{dgreen}{rgb}{0.0,1.0,0.0}
+ \newcommand{\dgreen}{\color{dgreen}}
+ \definecolor{dblue} {rgb}{0.0,0.0,1.0}
+ \newcommand{\dblue} {\color{dblue}}
+ \definecolor{violet}{rgb}{1.0,0.0,1.0}
+ \newcommand{\violet}{\color{violet}}
+%\definecolor{dviolet}{rgb}{0.5,0.0,1.0}
+ \definecolor{dviolet}{rgb}{0.75,0.0,1.0}
+%\definecolor{dviolet}{rgb}{0.58,0.0,0.83}
+ \newcommand{\dviolet}{\color{dviolet}}
+
+ \definecolor{grey}  {rgb}{0.1,0.1,0.1}
+ \newcommand{\grey}  {\color{grey}}
+
+%%%%%%%%%%%%%%%   B E G I N    P R E S E N T A T I O N   %%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%%% set default text font...
+\Huge\sf
+\boldmath
+%%% set default text and page color...
+\color{white}
+\color{lightyellow}
+\color{green}
+\pagecolor{white}
+
+\pagestyle{empty}
+
+
+\ve %%% Slide  01 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\vspace*{+5.0cm}
+
+\n \begin{center}
+
+\textcolor{dblue}{\kbigbf AST 322 Lect}\\[-10pt]
+
+\textcolor{dgreen}{\kbigbf Intro Cosmo II}\\[-10pt]
+
+\end{center}
+
+\end{document} %%%% 

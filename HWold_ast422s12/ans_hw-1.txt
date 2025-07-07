@@ -1,0 +1,50 @@
+1.1 Planck Length
+
+The following thought experiment illuminates this fact. The task is to 
+measure an object's position by bouncing electromagnetic radiation, namely 
+photons, off it. The shorter the wavelength of the photons, and hence the 
+higher their energy, the more accurate the measurement. If the photons are 
+sufficiently energetic to make possible a measurement more precise than a 
+Planck length, their collision with the object would, in principle, create 
+a minuscule black hole. This black hole would "swallow" the photon and 
+thereby make it impossible to obtain a measurement. A simple calculation 
+using dimensional analysis suggests that this problem arises if we attempt 
+to measure an object's position with a precision to within a Planck 
+length.
+
+
+1.2 Planck Mass
+
+The Planck mass is the mass of a black hole whose Schwarzschild radius 
+multiplied by 'pi' equals its Compton wavelength. The radius of such a 
+black hole is roughly the Planck length, which is believed to be the 
+length scale at which both general relativity and quantum mechanics 
+simultaneously become important.
+
+
+1.3 Planck Time
+
+According to the Big Bang theory nothing is known about the universe at 
+time=0, though it is presumed that all fundamental forces coexisted and 
+that all matter, energy, and spacetime expanded outward from an extremely 
+hot and dense singularity. One planck time after the event is the closest 
+that theoretical physics can get us to it, and at that time it appears 
+that gravity separated from the other fundamental forces.
+
+
+1.4 Planck Energy
+
+While the Planck energy equals an already macroscopic amount of energy, it 
+is nevertheless thought to be an important quantity in particle physics - 
+as soon as gravitation is taken into account. The Planck energy is not 
+only the energy (in principle) necessary to probe the Planck length, but 
+it is probably also the maximum energy that can fit into a region of that 
+scale - which in this case will immediately collapse to a (very hot) Black 
+Hole.
+
+
+The Planck energy is equivalent with the Planck mass according to E=mc^2. 
+The Planck energy equals approximately the electricity consumed by an 
+average person in 12 weeks, or by an average US citizen in two weeks (2001 
+figures). The Oh-My-God particle observed in 1991 with some 50 joules 
+contained about 25 billionths of the Planck energy.

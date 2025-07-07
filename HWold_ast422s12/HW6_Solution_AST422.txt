@@ -1,0 +1,59 @@
+From: Gregory Vance <gsvance@asu.edu>
+To: Rogier Windhorst <Rogier.Windhorst@asu.edu>
+Cc: AST 322 TA's Spring 2020 <stompkins7192@gmail.com>, Gregory S. Vance <Gregory.S.Vance@asu.edu>, Rogier Windhorst <raw@asu.edu>
+Subject: Re: Two more H/W 6 solutions I found
+
+I found a pretty straightforward way of doing it that skirts most of the
+difficulty and nasty trig algebra people have been running into.
+
+1. Take derivatives of (5.90) and (5.91) with respect to theta.
+
+2. Substitute both of them into equation (7) from the hints PDF.
+
+3. You now have an expression for da/dt in terms of theta.
+
+4. Substitute this expression into (5.88) in place of adot.
+
+5. Use (5.90) to substitute for a in (5.88).
+
+6. Reduce to something that is trivially true. I got sin^2(theta) = 1 - cos^2(theta).
+
+I didn't even need the trig identities from equations (5) and (6) of the
+hints PDF. This strikes me as the best way to go about it.
+
+Rogier, the solutions you sent rely on directly tackling the integral and
+using the FullSimplify function in Mathematica.
+
+HINT EMAILED TO THE STUDENTS:
+
+For H/W 6.7a, I recommend this approach:
+
+- Do not try to directly integrate equation (5.89) unless you want to make life
+difficult for yourself.
+
+- Use equation (7) from the hints PDF, but don't worry about the trig identities
+given in equations (5) and (6).
+
+- Equation (7) will give you da/dt in terms of theta. Focus on showing that this
+da/dt and equation (5.90) solve the differential equation (5.88).
+
+- This same approach can also help with H/W 6.7b.
+
+- There are multiple correct ways to complete H/W 6.7--some are easier than
+others.
+
+For H/W 6.9:
+
+- When approximating equation (5.110) to get (5.111), keep in mind the Taylor
+series approximation sqrt(1+x) ~ 1 +x/2 when x << 1.
+
+- There's a typo in equation (5.111)--the 2 inside the parentheses should be a 3.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Gregory S. Vance
+Astrophysics PhD Candidate
+School of Earth and Space Exploration
+Arizona State University
+
+

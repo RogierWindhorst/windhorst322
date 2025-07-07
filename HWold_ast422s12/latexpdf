@@ -1,0 +1,46 @@
+#!/bin/csh
+#
+# Script to compile a LaTeX HST proposal template and output a PDF
+# file with all Type 1 fonts included.  R.A. Jansen -- Jan 18 2006.
+# (By default, 'dvips' uses Type 3 Postscript fonts as a result of
+# the mandatory style option 'times'. Such Type 3 fonts lacks proper
+# encodings for ligatures, resulting in garbage characters).
+#
+set root=$1:r
+set ext="unknown"
+if ( -e $root ) then
+   set ext=""
+else
+   echo "Searched in vain for file '$root'..."
+   echo "Trying '$root.tex' ..."
+   if ( -e $root.tex ) then
+      set ext=".tex"
+   else
+      echo "Searched in vain for file '$root.tex'..."
+      echo "Trying '$root.latex' ..."
+      if ( -e $root.latex ) then
+	 set ext=".latex"
+      else
+         echo "Searched in vain for file '$root.latex'..."
+         echo "Giving up."
+         exit
+      endif
+   endif
+endif
+
+latex $root$ext
+if ( -e x.log ) \rm x.log
+
+set ok="`grep '?' $root.log`"
+if ( "" == "$ok" ) then
+   latex $root$ext
+   echo "Running dvips ..."
+   dvips -P amz -P cmz -t letter $root.dvi -o $root.ps
+   echo -n "Creating PDF ... please wait ... "
+   ps2pdf13 $root.ps $root.pdf
+   echo "done."
+endif
+\rm $root.dvi ; \rm $root.aux ; \rm $root.log
+if ( -e $root.ps ) \rm $root.ps
+if ( -e $root.toc ) \rm $root.toc
+

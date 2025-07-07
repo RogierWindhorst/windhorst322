@@ -1,0 +1,55 @@
+# ===================================================================================
+# 
+# TO ACCESS CLASS PAGES FOR EVERY CLASS DO:
+# 
+# cd /Users/raw/teach/ast322s25/
+
+# LOCAL URL: file:///Users/raw/teach/ast322s25/index.html
+
+
+# ssh -p 9022 windhors@129.219.108.241         ### OR:
+# ssh -p 9022 windhors@antelope.sese.asu.edu   ### Use specific port 9022
+
+# Your user name is: windhors
+
+# Your password is: as in Gmail        [OLD: ASURITE or Foxtrot-Whiskey-4943]
+
+# $ /home/windhors
+# $ cd /var/www/users/windhorst322.asu.edu  ### NEW path as of 08/2019
+#
+# $ cd /webuser/www/windhorst322.asu.edu    ### NEW path as of 08/2023
+# $ pwd
+# $ ls
+
+
+# Put main files onto SESE 2024 antelope server (Port 9022 requires -P in scp):
+
+scp -pr -P 9022 *  windhors@antelope.sese.asu.edu:/webuser/www/windhorst322.asu.edu/.
+
+### scp -pr -P 9022 *.html windhors@antelope.sese.asu.edu:/webuser/www/windhorst322.asu.edu/.
+
+
+# Put backup files on mirror site on General:
+
+scp -pr * windhors@general.asu.edu:/afs/asu.edu/www/clas/hst/classes/ast322/. 
+
+### scp -pr *.html windhors@general.asu.edu:/afs/asu.edu/www/clas/hst/classes/ast322/. 
+
+
+# All AST files will then be on: 
+# 
+# http://windhorst322.asu.edu/
+# 
+# Backup files on General are on:
+#
+# http://www.asu.edu/clas/hst/classes/ast322/
+# 
+# ssh windhors@general.asu.edu
+# passwd: as in ASURITE
+# 
+# cd /afs/asu.edu/www/clas/hst/classes/ast322/
+
+exit
+
+# ===================================================================================
+

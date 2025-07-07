@@ -1,0 +1,74 @@
+Spring 2025 Class Roster
+Class # 	Course 	Title 	Enrolled 	Instructor(s) 	Days 	Times 	Date(s) 	Location
+11979 	AST 322 	Intro/Galactic/Extra/Astrophys 	60/65 	Windhorst, Staff 	Tu Th 	3:00 PM - 4:15 PM 	1/13/25  - 5/2/25 	Tempe PSF 123
+
+View: Roster List | Roster Photos | Grade Roster
+Class Roster
+Download | Print Print
+Total Enrolled Students: 60
+Enrollment Capacity: 65
+Show: 	Select All 	
+
+Name (Switch to First Last) 	ID 	Posting ID 	Status 	Units 	Grade Basis 	Program and Plan 	Honors Contract 	Academic Level 	ASURITE 	Residency
+
+1 		Asadourian, Tatiana Email 	1224872935 	2935-850 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	tasadour 	Resident
+2 		Barnes, Jovee Email 	1229203419 	3419-189 	ENRL (11-12-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Sophomore 	jmbarn20 	Resident
+3 		Bhagat, Sarah Email 	1222682058 	2058-829 	ENRL (10-24-2024) 	3 	Standard 	School of Global Management - International Trade		Senior 	sbhagat6 	Non-Resident
+4 		Blackburn King, Arianne Email 	1216367503 	7503-878 	ENRL (10-24-2024) 	3 	Standard 	Undergrad Non-deg/Non-Fin Aid - Planetary Science		Senior 	ablackb4 	Resident
+5 		Bowling, Gibson Email 	1228770181 	0181-923 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Physics	Pending Initial Review 	Junior 	gbbowlin 	Non-Resident
+6 		Bowman, Gabriel Email 	1219985806 	5806-520 	ENRL (12-05-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth & Space Exploration		Senior 	gabowma1 	Non-Resident
+7 		Cardona, Ashton Email 	1225790620 	0620-103 	ENRL (10-31-2024) 	3 	Standard 	The College of Lib Arts & Sci - Physics		Senior 	ancardo3 	Resident
+8 		Carrington, Mae Email 	1224603913 	3913-357 	ENRL (10-21-2024) 	3 	Standard 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)		Senior 	mcarrin3 	Resident
+9 		Casanova, Emma Email 	1224416284 	6284-253 	ENRL (10-24-2024) 	3 	Standard 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)		Senior 	edcasano 	Resident
+10 		Cencimino, Michael Email 	1221500124 	0124-673 	ENRL (10-21-2024) 	3 	Standard 	Cronkite School-Journ/MassComm - Mass Comm & Media Studies		Senior 	mcencimi 	Resident
+11 		Curt, Gian Email 	1224404961 	4961-723 	ENRL (10-24-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	gcurt 	Resident
+12 		Davis, Elsie Email 	1224483806 	3806-838 	ENRL (10-21-2024) 	3 	Standard 	Integrative Sciences & Arts - Applied Physics		Senior 	eadavi19 	Resident
+13 		Emmons, Spencer Email 	1225629093 	9093-508 	ENRL (10-24-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	semmons3 	Resident
+14 		Freeman, Joslyn Email 	1228377451 	7451-194 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Junior 	jfreem35 	Resident
+15 		Glanville, Robby Email 	1224826642 	6642-841 	ENRL (10-31-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Junior 	rglanvi1 	Resident
+16 		Goralski, Roman Email 	1225296033 	6033-783 	ENRL (10-31-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	rgoralsk 	Non-Resident
+17 		Guinan, Emma Email 	1230916494 	6494-382 	ENRL (10-21-2024) 	3 	Standard 	Undergrad Non-deg/Non-Fin Aid - Planetary Science	Initially Approved 	Senior 	eguinan 	Non-Resident
+18 		Haramis, Cole Email 	1225068676 	8676-528 	ENRL (10-31-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	charamis 	Resident
+19 		Hatathlie, Brenndon Email 	1218222603 	2603-637 	ENRL (11-07-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Junior 	bjhatath 	Resident
+20 		Headon, Jackson Email 	1224268929 	8929-341 	ENRL (10-23-2024) 	3 	Standard 	The College of Lib Arts & Sci - Physics		Senior 	jheadon 	Resident
+21 		Higgins, Ellie Email 	1224538913 	8913-327 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	eshiggin 	Resident
+22 		Honor, Rachel Email 	1229194748 	4748-644 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)	Initially Approved 	Junior 	rchonor 	Non-Resident
+23 		Jimenez Mariscal, Daniel Email 	1225123978 	3978-948 	ENRL (10-31-2024) 	3 	Standard 	The College of Lib Arts & Sci - Physics		Senior 	dbjimene 	Resident
+24 		Johnson, Luke Email 	1225195114 	5114-843 	ENRL (10-31-2024) 	3 	Standard 	Ira A Fulton Engineering - Materials Sci & Engineering		Senior 	ljohn174 	Non-Resident
+25 		Johnston, Kendall Email 	1225641157 	1157-056 	ENRL (01-13-2025) 	3 	Standard 	Integrative Sciences & Arts - Interdisciplinary Studies		Junior 	kjohn256 	Resident
+26 		Jones, Sara Email 	1230153615 	3615-399 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Physics		Senior 	sejone37 	Resident
+27 		Joseph, Daniel Email 	1216333677 	3677-272 	ENRL (11-02-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	dsjoseph 	Resident
+28 		Kabi, Arya Email 	1220739065 	9065-097 	ENRL (11-06-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Junior 	akabi 	Non-Resident
+29 		Kaiser, Anna Email 	1225104842 	4842-310 	ENRL (10-31-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth & Space Exploration		Junior 	amkaise4 	Non-Resident
+30 		Kirk, Haelee Email 	1227684057 	4057-583 	ENRL (11-04-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Junior 	hkirk2 	Resident
+31 		Kunz, Jesse Email 	1218634144 	4144-102 	ENRL (11-14-2024) 	3 	Standard 	MaryLouFulton Teachers College - Secondary Education		Senior 	jrkunz 	Resident
+32 		Leviyev, Rafael Email 	1224639299 	9299-367 	ENRL (10-29-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	rleviyev 	Resident
+33 		Lottig, Andrew Email 	1226557412 	7412-334 	ENRL (10-22-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	alottig 	Resident
+34 		MacLeod, Holly Email 	1230315517 	5517-458 	ENRL (10-22-2024) 	3 	Standard 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)		Junior 	hmacleod 	Non-Resident
+35 		Mahmoud, Abdullah Mahmoud Rajab Email 	1228253873 	3873-569 	ENRL (10-21-2024) 	3 	Standard 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)		Senior 	amahmo23 	Non-Resident
+36 		Mammadli, Aykhan Email 	1226766972 	6972-101 	ENRL (10-31-2024) 	3 	Standard 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)		Junior 	amammadl 	Non-Resident
+37 		Masterson, Joel Email 	1218874085 	4085-428 	ENRL (10-24-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	jwmaste1 	Resident
+38 		Meza, Leo Email 	1229125653 	5653-373 	ENRL (11-01-2024) 	3 	Standard 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)		Junior 	lemeza4 	Resident
+39 		Miller, Megan Email 	1225323840 	3840-572 	ENRL (10-31-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	mlmill46 	Non-Resident
+40 		Moreno, Esteban Email 	1225556787 	6787-420 	ENRL (10-31-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Junior 	emoren47 	Resident
+41 		Olson, Connor Email 	1224973035 	3035-398 	ENRL (10-21-2024) 	3 	Standard 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)	Pending Initial Review 	Senior 	colson32 	Resident
+42 		Ong, Mark Email 	1235303604 	3604-492 	ENRL (11-06-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth & Space Exploration		Junior 	markong 	Resident
+43 		Orozco, Geovanni Email 	1218681217 	1217-691 	ENRL (12-27-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&SpEx(ExplorSystmsDesign)		Senior 	gxorozco 	Resident
+44 		Palmieri, Isabella Email 	1228678765 	8765-664 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Inter Ltrs&Cultures (Classics)		Junior 	ipalmie1 	Resident
+45 		Pfaff, Cameron Email 	1221883793 	3793-778 	ENRL (01-15-2025) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	cnpfaff 	Non-Resident
+46 		Pitzer, Ethan Email 	1223967537 	7537-568 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	epitzer 	Non-Resident
+47 		Rathod, Vedant Email 	1229644535 	4535-906 	ENRL (11-06-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Sophomore 	vrathod4 	Non-Resident
+48 		Roy, Griffin Email 	1224515110 	5110-731 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Junior 	gcroy 	Resident
+49 		Rush, Kyle Email 	1218993542 	3542-560 	ENRL (10-31-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Junior 	kkrush1 	Resident
+50 		Saavedra, Sarah Email 	1224813733 	3733-750 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	smsaave2 	Resident
+51 		Simsim, Reem Email 	1231110233 	0233-011 	ENRL (11-15-2024) 	3 	Standard 	Integrative Sciences & Arts - Applied Physics		Junior 	rsimsim 	Non-Resident
+52 		Stefanovski, Jacob Email 	1214671250 	1250-668 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Physics		Senior 	jstefan4 	Resident
+53 		Strader, Devon Email 	1226865681 	5681-389 	ENRL (12-04-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Junior 	dstrade1 	Resident
+54 		Stribiak, Evan Email 	1224268227 	8227-287 	ENRL (10-31-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Junior 	estribia 	Non-Resident
+55 		Thomas, Tyler Email 	1213088095 	8095-104 	ENRL (01-09-2025) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	tjthom18 	Resident
+56 		Watts, Jessica Email 	1226006160 	6160-310 	ENRL (10-31-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Junior 	jrwatts3 	Non-Resident
+57 		Weissbluth, Eyan Email 	1224425670 	5670-163 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	eweissbl 	Resident
+58 		Willsey, Dean Email 	1221700103 	0103-761 	ENRL (01-09-2025) 	3 	Standard 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)		Senior 	djwillse 	Resident
+59 		Wrschka, Leila Email 	1228917601 	7601-481 	ENRL (10-21-2024) 	3 	Standard 	The College of Lib Arts & Sci - Physics		Junior 	lwrschka 	Resident
+60 		Zeising, Jacob Email 	1226370121 	0121-586 	ENRL (11-06-2024) 	3 	Standard 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)		Senior 	jzeising 	Resident
+

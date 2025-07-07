@@ -1,0 +1,258 @@
+Here are the HW questions that we suggest for AST 322 this semester. This 
+list may change as we go through the semester.
+
+Barbara Ryden: ``Intro to Cosmology -- 2nd edition'' -- Spring 2020
+
+Unless indicated in class otherwise, H/W sets are due as following [In all
+cases, H/W may be handed in early for +1 extra credit point, or it may be
+handed in up to a week late for -2 debit points. H/W's in a given set may not 
+be handed in after they are graded and handed back to the students or their
+answers are discussed in class]: 
+
+H/W 1: Jan. 25
+
+H/W 2: Feb. 08
+
+H/W 3: Feb. 15
+
+H/W 4.1-4.3: Feb. 24
+
+H/W 4.4a+4.5 [plus 4.4b for extra credit]: March 03
+
+H/W 5.1-5.4: Th March 10
+
+H/W 5.5:     Th March 17
+
+H/W 6.7-6.9: Th March 24 
+
+[H/W 5.6 is a term project topic that you may chose. Or you may do it for honors
+credit in addition to your term project that we will discuss after spring break].
+
+All term projects are due Apr. 14 (early bird extra credit) or Apr 21 (hard deadline).
+
+================================================================================
+
+H/W 1.0: Verify (NOT prove from first principles) that Ry Eq. 1.1-1.5 are
+correct. Then given the values of G, c, h_bar, verify that the listed values of
+l_p (m), M_P (kg), t_P (s), E_p (eV) and T_P (K) are correct. What do these
+extremely small or large values mean physically? (HINT: What do these values
+imply for the early Universe and/or how are these units defined)
+
+H/W 1.1: Derive from the order-of-magnitude equations for the Planck epoch
+the energy density during the Planck time: rho_P = c^7 / ( h_bar . G^2 ).
+What is rho_P in physical units? Compare this to the rho_o value today of 
+2.7 x 10^-27 kg/m^3 (see Ry 2.2 pg. 11). What does this imply? 
+
+H/W 1.2a: The Schwarzschild radius of a black hole is r_s = 2 G M_BH / c^2.
+Derive the Schwarzschild radius of the Universe during the Planck time, r_s,P. 
+
+H/W 1.2b: How does r_s,P compare to l_P? Describe the fallacy here. 
+
+H/W 1.2c: Briefly suggest possible ways out of this dilemma. 
+
+H/W 1.2d (EXTRA CREDIT): Later on this semester, we will ask you to compute
+r_s,U for the universe today, and compare it to the Hubble radius r_H today.
+Describe the same issue here as in 1.2a--1.2c. 
+
+--------------------------------------------------------------------------------
+
+H/W 2.1: Confirm the Delta_rho/rho values in Fig. 2 (a), (b), (c), (d), (e). 
+Fig. 2e refers to Dr. Windhorst's handwritten notes in Ch. 2 referring to the 
+mass density of a black hole, where the radius is the Schwarzschild radius r_S
+(see Chapter 1 for the definition of r_S).
+
+H/W 2.2: Given a value of H_o, calculate R_o in Gpc and t_o in years as
+accurately as you currently can (after Ch 6, you will be given the exact
+formulae or methods to do so).
+
+H/W 2.3: With what you are given in Ry Chapter 2.4, VERIFY that:
+
+a) Wien's law: lambda_peak = 0.29 cm / T (K). 
+So what is the ``color'' of the Sun really?
+
+b) Mean energy in Planck curve of temp T: E_mean = 2.7 k T (K). 
+What is the mean energy of a photon coming from the Sun? 
+And what is it for a cosmic microwave background photon? 
+
+(EXTRA CREDIT): If I told you, as we will in Ch 8, that stars half the
+temperature of the Sun can begin to ionize Hydrogen, AND that both the Sun 
+and the cosmic microwave background are subject to the same Hydrogen
+(ionization) physics, what does that tell you about the redshift 
+where the cosmic microwave background was generated? Discuss briefly. 
+
+H/W 2.4: Like at the end of Ch. 2, show that indeed V(z) = (r_0)^3 / (1+z)^3, 
+T(z) = T_0 (1+z), and eps_gamma (z) = alpha (T_0)^4 (1+z)^4, with T_0 = 2.7255 K
+and alpha given in Eq. (2.29). 
+
+--------------------------------------------------------------------------------
+
+H/W 3.1: Show that, or derive how Ry 3.20 and 3.21 follow from the previous
+equations. We will use these metrics a lot in what follows. [Note the typo in
+Ry Eq. 3.20: The two square exponents INSIDE the first set of square brackets
+shouldn't be there ...]
+
+H/W 3.2: See Ry Fig. 3.3. Show that the actual downwards deflection of a
+light ray --- horizontally emitted in this closed elevator or box --- is
+~2x10^-16 m in the presence of Earth's gravity (or an equivalent acceleration of
+the elevator!) across the box length of 2 m. [Note typo in Fig. 3.2's caption:
+2x10^-14 should read 2x10^-16 !] 
+
+H/W 3.3: Show that the metric as written in 3.36 is mathematically equivalent to
+that in 3.33+3.34 for all three values of k (=+1, 0 -1). We will use both
+notations of these metrics interchangeably in what follows. 
+
+--------------------------------------------------------------------------------
+
+H/W 4.1: Show from the previous eqs. that eq. (4.12) is true.
+
+H/W 4.3: Show that (4.28a) and (4.28b) are true. What is the special meaning of
+the case k=kappa=0? What is the actual value of the critical density of the
+universe rho_0 that you derive in that case? Assuming the constants given in the
+text, calculate rho_o from (4.28b). [Do 4.3 before 4.2]. 
+
+H/W 4.2: Show from the eqs. before (4.17) that eq. (4.17)+(4.18) are true. Then
+solve (4.18) for a(t) and sketch a(t) for 3 different values of U, representing
+a k=+1, k=0, and k=-1 universe, respectively. You may assume reasonable values
+of U, r_s. [Hint: Solving the case of k=0 is easy, since we already discussed
+the answer in class, and you just have to show that this solution works. The
+cases of k=+/-1 are harder to solve (will get to the exact solution in Ch 5),
+so it will suffice if you just discuss and sketch what the the solutions for
+k=+/-1 look like]. 
+
+H/W 4.4a Show that (4.35) and (4.36) are true. Discuss the critical
+implications of the equation that follows from this: 
+[1 - 1/Omega(t)] = [1 - 1/Omega_0(t)]/(1+z) [link your finding to Inflation]. 
+
+4.4b This part for extra credit only: [Harder; TAs may give you further
+hints!]: Use (4.26)+(4.33) to derive Omega(t) as a function of (1+z), and then
+prove that: [1 - 1/Omega(t)] = [1 - 1/Omega_0(t)]/(1+z) . This equation may be
+assumed, but is needed to give the discussion in 4.4a. 
+
+H/W 4.5: Re. (4.58) and following eqs., discuss the physical meaning of the
+following cases of the expanding universe's content, all for w<1:
+
+w~=0
+
+w=1/3 
+
+w=-1/3 or smaller
+
+w=-1
+
+--------------------------------------------------------------------------------
+
+H/W 5.1: Show from the previous Eqs. that (5.9) is a valid solution of (5.8).
+Then use this result to answer: What w-component dominates the expansion of the
+universe for:
+
+a) a ---> 0 ( or z ---> infinity); and 
+
+b) a ---> infinity (or t ---> infinity). 
+
+c) Discuss the cases w=0 and w=1/3.
+
+H/W 5.2: For what value of z_Lambda_m is eps_Lambda = eps_m? Discuss what this
+means for the growth of galaxies with time (no more than 1-2 paragraphs). 
+
+Hint: In preparation for a possible term project, do a little literature search
+(use ADS abstract link on Links) on the cosmic star-formation rate vs. redshift
+SFR(z). (e.g., Madau, P. & Dickinson, M. 2014, Ann. Rev. A&Ap, 52, p. 415). The
+PDF is available here: https://arxiv.org/abs/1403.0007 . Based on their Fig. 9,
+discuss what impact the expansion and Lambda (> 0) may have had on the growth of
+galaxies with cosmic time, and whether this is visible in the data. 
+
+[For extra credit: You could also discuss how the galaxy merger rate has changed
+as a function of redshift, by comparing the mix of spiral and elliptical galaxies
+in high redshift clusters to those at low redshifts. (Hint: You need to know that
+galaxy mergers tend to transform spiral galaxies into ellipticals; Do a
+literature search of how the mix of spiral and elliptical galaxies has changed in
+galaxy clusters with redshift, as observed e.g. with Hubble).] 
+
+H/W 5.3: Show that (5.38), (5.39), (5.41) and (5.42) follow from the previous 
+math (for w .neq. -1). Discuss the meaning of each of these equations for
+simple cases like w=0 and w=1/3. E.g., calculate t_o (in units of 1/H_o) for
+the current value of eps_o if w=0 or w=1/3.
+
+H/W 5.4: Show that (5.48), (5.49), and (5.50) follow from the previous math.
+Plot d_p(t_o) and t(z) for w=0 and w=1/3, and discuss their meaning. (As before,
+you may omit the cases --- for now --- where a w-value causes a zero-divide). 
+
+H/W 5.5: By differentiating the appropriate equations in section 5.3, derive for
+what redshift z_max the proper distance d_p(t_e) reaches a maximum value
+d_p(t_e)_max (See Fig. 5.3). What is this maximum value d_p(t_e)_max in units of
+R_o = c/H_o for each of the w-values that we discussed (w=0, 1/3, -1, etc)? For
+one w-value of your choice, plot the resulting d_p(t_e) vs. z [using your
+favorite plotting program], and verify that your derived d_p(t_e)_max value is
+indeed the maximum of that curve.
+
+For suggestions how to proceed for each w-value, see the equations in the Ryden
+5.3 lecture notes and look for the breakdown of this problem into H/W 5.5a, H/W
+5.5b, or H/W 5.5c. You don't have to do all suggested H/W 5.5* (although you may
+do so for extra credit), and the TAs may suggest which one you need to solve.
+Also look ahead to Ch 6.1-6.3 for Taylor series approaches to these solutions.
+
+Now discuss the following: If Congress gave you a fixed large budget to build a
+the best telescope you can build within that budget, but passed a law that you
+could move --- for ONE time --- to any universe of your liking (using a
+Hawking-Penrose wormhole that the DoD had been developing), discuss which
+universe would you move to to make optimal use of that telescope? Motivate your
+answer well, since you may only move once! (Hint: Consider that you wish to
+observe galaxies with a telescope of finite resolution in that universe at
+redshifts that are as large as possible; Ponder Fig. 5.3 and its consequences
+carefully!).
+
+H/W 5.6 is a possible Term Project or Honors Project!: Evaluate a(t) from the
+integral equation (5.83) for a reasonable grid of (Omega_r, Omega_m,
+Omega_Lambda) values, and plot these a(t) [following Fig. 5.7] for a grid of
+(Omega_m, Omega_Lambda) values as suggested in Fig. 5.6. Sample Fig. 5.6 with a
+dense enough grid of (Omega_m, Omega_Lambda) values to provide examples of a(t)
+for all reasonable universes (see the *** in Fig. 5.6). 
+
+Remainder H/W based on Ry Ch 5 are numbered 6.7, 6.8. 6.9 (since chapters 5+6
+of Ryden's 1st edition were combined into Chapter 5 of Ryden's 2nd edition).
+
+[We ask you only do 6.7a, 6.8b, and 6.9 --- the TA's will verify this]:
+
+H/W 6.7a: For Omega_0>1, show that (5.90) and (5.91) are a solution of (5.89).
+Then sketch or plot a(t) for this universe, and show that it results in a big
+crunch after a time given in (5.91). At what time is the maximum expansion
+reached?
+
+H/W 6.7b (EXTRA CREDIT): For Omega_0<1, show that (5.93) and (5.94) are a
+solution of (5.89). Then sketch or plot a(t) for this universe, and verify that
+it expands forever.
+
+H/W 6.8a (EXTRA CREDIT): For Omega_Lambda,0<0, show that (5.97), (5.99), (5.99)
+are a valid solution of the Friedmann equation (5.96) in the presence of Lambda.
+Then sketch or plot a(t) for this universe, and show that it results in a big
+crunch after a time given in (5.98).
+
+H/W 6.8b: For Omega_Lambda,0>0, show that (5.100)--(5.103) are a solution of
+(5.96) in the presence of Lambda. Then sketch or plot a(t) for this universe,
+and verify that it expands forever. Verify that the resulting (5.105) and
+(5.106) are true for this universe (this is the Universe we live in!).
+
+H/W 6.9: Show that (5.109)--(5.113) are valid solutions for the Friedmann
+equation (5.108) in the case of a Radiation+Matter only universe. (This is the
+universe we lived in before Lambda took over at 3.5 Gyr ago (at
+z_Lambda,m=0.29). Using (5.111)--(5.113), verify the value of z_r,m and t_rm
+that we will use a lot later on.
+
+--------------------------------------------------------------------------------
+
+Ry Ch  6: H/W 6.1, 6.2, 6.3, 6.9
+
+Ry Ch  7: H/W 7.3, 7.4, 7.6
+
+Ry Ch  8: H/W 8.1, 8.2, 8.4
+
+Ry Ch  9: H/W 9.3, 9.4, 9.5
+
+Ry Ch 10: H/W 10.1, 10.2, 10.3
+
+Ry Ch 11: H/W 11.3, 11.4, 11.5
+
+Ry Ch 12: H/W 12.1, 12.2, 12.4 
+
+--------------------------------------------------------------------------------
+

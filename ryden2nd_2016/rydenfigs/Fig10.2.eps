@@ -1,0 +1,345 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%Title:  A really cool plot
+%%For:  ryden@hubble                                                                                                                
+%%Creator:  Lick Mongo 1995 (OSU Astro)
+%%CreationDate:  Fri 2002 Feb  1 15:58:15                                                                                           
+%%Pages: 1
+%%BoundingBox:     99   250   511   427
+%%DocumentFonts: (atend)
+%%EndComments
+%%BeginProlog
+/L {lineto} bind def /M {moveto} bind def
+/CLR000 { 1.000 1.000 1.000 setrgbcolor} bind def
+/CLR001 { 0.000 0.000 0.000 setrgbcolor} bind def
+%%EndProlog
+%%BeginSetup
+ 0.5 setlinewidth
+ 1 setlinecap
+ 1 setlinejoin
+ /Helvetica findfont 15 scalefont setfont
+%%EndSetup
+%%Page: 1 1
+%%BeginPageSetup
+% This file was created as EPS for inclusion into other graphics.                                                                   
+% Change the next line to "true" if this is to be printed directly.                                                                 
+false
+{
+  /TuvLand false def
+   clippath pathbbox gt
+   TuvLand xor
+   {   792 0 translate 90 rotate} if pop pop
+} if
+%%EndPageSetup
+   1.200 setlinewidth
+gsave newpath
+   100.00    250.00 M
+   500.00    250.00 L
+   500.00    450.00 L
+   100.00    450.00 L
+closepath clip
+ /DoDotDict 20 dict def
+ /DoDot {
+ DoDotDict begin
+ /expand exch def /ptype exch def
+ /nvert exch def /rot exch def
+ /ydot exch def /xdot exch def
+ gsave
+ xdot ydot translate
+ rot rotate
+ /orad 5.0 expand mul def
+ /dang 360. nvert div def
+ /bang -90. dang 0.5 mul add def
+ /eang 270. dang 0.5 mul sub def
+ /xv orad bang cos mul def
+ /yv orad bang sin mul def
+ newpath xv yv moveto
+ ptype 0 eq ptype 3 eq or {
+     bang dang add dang eang {
+ 	dup sin exch cos
+ 	/xv exch orad mul def
+ 	/yv exch orad mul def
+ 	xv yv lineto
+     } for
+     closepath
+     ptype 0 eq {stroke} if
+     ptype 3 eq {gsave
+ 	fill grestore
+     } if
+ } if
+ ptype 1 eq {
+     bang dang add dang eang {
+ 	dup sin exch cos
+ 	/xv exch orad mul def
+ 	/yv exch orad mul def
+ 	0 0 lineto xv yv moveto
+     } for
+     0 0 lineto stroke
+ } if
+ ptype 2 eq {
+     /irad 1.25 expand mul def
+     /hang dang 0.5 mul def
+     bang dang eang {
+ 	dup hang add dup sin exch cos
+ 	/xv exch irad mul def
+ 	/yv exch irad mul def
+ 	xv yv lineto
+ 	dang add dup sin exch cos
+ 	/xv exch orad mul def
+ 	/yv exch orad mul def
+ 	xv yv lineto
+     } for
+     stroke
+ }if
+ grestore end } bind def
+ /DoPt {
+ 1 index 1 index M L
+ } bind def
+ gsave newpath   171.43   390.91     2.70 0 360 arc fill grestore
+ gsave newpath   228.57   359.09     2.70 0 360 arc fill grestore
+ gsave newpath   400.00   331.82     2.70 0 360 arc fill grestore
+grestore
+ /MongoNormalFont /Helvetica def
+ /MongoGreekFont /Symbol def
+ FontDirectory /ZapfChancery-MediumItalic known
+ {/MongoScriptFont /ZapfChancery-MediumItalic def}
+ {/MongoScriptFont /Times-Roman def}
+ ifelse
+ /MongoTinyFont /Courier def
+ /MongoItalicFont /Helvetica-Oblique def
+ /MongoOtherFont /Times-Roman def
+ /ISOLatin1Encoding where
+ {pop
+     MongoNormalFont findfont
+     dup length dict begin
+         { 1 index /FID ne {def} {pop pop} ifelse} forall
+         /Encoding ISOLatin1Encoding def
+         currentdict
+     end
+     /MongoNormalISOFont exch definefont pop
+ } if
+ /MongoLabelDict 70 dict def
+ /MongoLabelStartup {
+ MongoLabelDict begin
+ /ptsize 0 def /rotcode 0 def /hpos 0 def /vpos 0 def /modechar 92 def
+ /modecount 0 def /mode 0 def /submode 0 def /superlevel 0 def
+ /supershift 0.55 def /superscale 1.67 def /voff 0 def /curpt 1 def
+ /curheight 1 def /fontnum 0 def /literalmode 0 def /cfontnum 0 def
+ /cptsize 0 def /fsize 0 def /xlen 0 def /ylen 0 def /xadj 0 def /yadj 0 def
+ /romanchar (r) 0 get def /greekchar (g) 0 get def /scriptchar (s) 0 get def
+ /tinychar (t) 0 get def /italchar (i) 0 get def /otherchar (o) 0 get def
+ /usuperchar (U) 0 get def /usubchar (D) 0 get def /superchar (u) 0 get def
+ /subchar (d) 0 get def /zerochar (0) 0 get def /sevenchar (7) 0 get def
+ /xjustcode 0 def /yjustcode 0 def
+ /ybot 0 def /ycen 0 def /ycap 0 def /ytop 0 def
+ /charcode 0 def /charval 0 def /debugline 720 def
+ /doprint {gsave	hpos vpos translate rotcode rotate xadj xlen add yadj voff
+ add moveto show grestore} def
+ /SetXYadj{/yadj yjustcode -2 eq
+ {ybot}
+ {yjustcode -1 eq
+ 	{0}
+ 	{yjustcode 0 eq
+ 		{ycen}
+ 		{yjustcode 1 eq
+ 			{ycap}
+ 			{ytop}
+ 		 ifelse}
+ 	 ifelse}
+  ifelse}
+ ifelse neg def /xadj xjustcode 1 add xlen mul -2 div def} def
+ /DoFont{/cptsize exch def /cfontnum fontnum def
+ 	findfont [ cptsize 0 0 cptsize 0 0 ] makefont setfont} def
+ /SetupFont{dup fontnum cfontnum eq exch
+ 	cptsize eq and {pop pop} {DoFont} ifelse} def
+ /SelectFont {
+     ptsize curpt mul
+     fontnum 5 eq
+ 	{MongoOtherFont exch SetupFont}
+ 	{fontnum 4 eq
+ 	    {MongoItalicFont exch SetupFont}
+ 	    {fontnum 3 eq
+ 		{MongoTinyFont exch SetupFont}
+ 		{fontnum 2 eq
+ 		    {MongoScriptFont exch SetupFont}
+ 		    {fontnum 1 eq
+ 			{MongoGreekFont exch SetupFont}
+ 			{MongoNormalFont exch SetupFont}
+ 		    ifelse}
+ 		 ifelse}
+ 	     ifelse}
+ 	ifelse}
+     ifelse
+ } def
+ /dochar {/charcode exch def
+ literalmode 0 ne
+ 	{literalmode 3 eq
+ 		{/charval 0 def}
+ 	 if
+ 	/charval charval 8 mul charcode zerochar sub 7 and add def
+ 	/literalmode literalmode 1 sub def
+ 	literalmode 0 eq
+ 		{/charcode charval def}
+ 	if
+ } if
+ literalmode 0 eq
+ {
+ SelectFont
+ /thechar ( ) dup 0 charcode put def
+ printit 1 eq {thechar doprint} if
+ thechar stringwidth pop xlen add /xlen exch def
+ submode 1 eq {-1 SetSuperSub /submode 0 def} if
+ submode -1 eq {1 SetSuperSub /submode 0 def} if
+ mode 1 eq {/fontnum 0 def /mode 0 def} if
+ } if} def
+ /GetCurheight{gsave newpath 0 0 moveto ([) true charpath flattenpath pathbbox
+ /ycap exch def pop /ybot exch def pop /ytop ptsize ybot add def
+ /ycen ycap 2 div def ycap ybot sub grestore} def
+ /countmode{modecount 1 gt
+ 	{modechar dochar
+ 	/modecount 0 def}
+ 	{/modecount modecount 1 add def}
+ 	ifelse
+ } def
+ /ResetModecount {/mode modecount def /modecount 0 def} def
+ /SetSuperSub {
+ dup 0 gt
+ 	{
+ 	/voff voff supershift curheight curpt mul mul add def
+ 	superlevel 0 ge
+ 		{/curpt curpt superscale div def}
+ 		{/curpt curpt superscale mul def}
+ 	ifelse
+ 	}
+ 	{
+ 	superlevel 0 gt
+ 		{/curpt curpt superscale mul def}
+ 		{/curpt curpt superscale div def}
+ 	ifelse
+ 	/voff voff supershift curheight curpt mul mul sub def
+ 	}
+ ifelse
+ dup superlevel add /superlevel exch def
+ modecount mul /submode exch def
+ /modecount 0 def} def
+ /setmode {
+ c romanchar eq
+     {/fontnum 0 def ResetModecount}
+     {c greekchar eq
+ 	{/fontnum 1 def ResetModecount}
+ 	{c scriptchar eq
+ 	    {/fontnum 2 def ResetModecount}
+ 	    {c tinychar eq
+ 		{/fontnum 3 def ResetModecount}
+ 		{c italchar eq
+ 		    {/fontnum 4 def ResetModecount}
+ 		    {c otherchar eq
+ 			{/fontnum 5 def ResetModecount}
+ 			{c superchar eq c usuperchar eq or
+ 			    {1 SetSuperSub}
+ 			    {c subchar eq c usubchar eq or
+ 				{-1 SetSuperSub}
+ 				{c zerochar ge c sevenchar le and
+ 				    {/literalmode 3 def
+ 				     c dochar
+ 				     /modecount 0 def}
+ 				    {1 1 modecount {modechar dochar} for
+ 				     c dochar}
+ 				ifelse}
+ 			    ifelse}
+ 			ifelse}
+ 		    ifelse}
+ 		ifelse}
+ 	    ifelse}
+ 	ifelse}
+     ifelse}
+ ifelse} def
+ /MongoStringWidth {
+ {
+ /c exch def
+ c modechar eq
+ 	{countmode}
+ 	{modecount 0 gt
+ 		{setmode}
+ 		{c dochar}
+ 	ifelse}
+ ifelse
+ } forall} def
+ /InitAll{/xlen 0 def /submode 0 def /superlevel 0 def /mode 0 def
+ /modecount 0 def /voff 0 def /curpt 1 def /fontnum 0 def /literalmode 0 def
+ MongoNormalFont ptsize DoFont} def
+ end
+ } def
+ /MongoPutlabel{gsave MongoLabelStartup MongoLabelDict begin
+ /textstr exch def /ptsize exch def /rotcode exch def /yjustcode exch def
+ /xjustcode exch def /vpos exch def /hpos exch def
+ InitAll
+ /curheight GetCurheight def /ylen curheight def /printit 0 def
+ textstr MongoStringWidth
+ SetXYadj
+ InitAll
+ /printit 1 def
+ textstr MongoStringWidth
+ end
+ grestore
+ } def
+ /ISOLatin1Encoding where
+ {pop
+ /Helvetica findfont
+ dup length dict begin
+     {1 index /FID ne {def} {pop pop} ifelse} forall
+     /Encoding ISOLatin1Encoding def
+     currentdict
+ end
+ /Helvetica-ISOLatin1 exch definefont pop
+ /MongoNormalFont    /Helvetica-ISOLatin1 def
+ }{
+ /MongoNormalFont    /Helvetica def
+ } ifelse
+  140.0  390.9   -1.0   0      0.00     13.50 (??) MongoPutlabel
+  175.7  390.9   -1.0   0      0.00     13.50 (TOE) MongoPutlabel
+  232.9  359.1   -1.0   0      0.00     13.50 (GUT) MongoPutlabel
+  404.3  331.8   -1.0   0      0.00     13.50 (ew) MongoPutlabel
+ newpath
+  157.14   390.91 M
+  171.43   390.91 L
+  196.43   422.73 L
+  500.00   422.73 L
+ stroke
+  442.9  416.4   -1.0   0      0.00     13.50 (gravity) MongoPutlabel
+ newpath
+  171.43   390.91 M
+  196.43   359.09 L
+  228.57   359.09 L
+  250.00   386.36 L
+  500.00   386.36 L
+ stroke
+  442.9  380.0   -1.0   0      0.00     13.50 (strong) MongoPutlabel
+ newpath
+  228.57   359.09 M
+  250.00   331.82 L
+  400.00   331.82 L
+  414.29   350.00 L
+  500.00   350.00 L
+ stroke
+  442.9  343.6   -1.0   0      0.00     13.50 (weak) MongoPutlabel
+ newpath
+  400.00   331.82 M
+  414.29   313.64 L
+  500.00   313.64 L
+ stroke
+  414.3  307.3   -1.0   0      0.00     13.50 (electromagnetic) MongoPutlabel
+  171.4  295.5   -1.0   0      0.00     13.50 (10\\u1\\u6) MongoPutlabel
+  171.4  277.3   -1.0   0      0.00     13.50 (10\\u3\\u2) MongoPutlabel
+  171.4  259.1   -1.0   0      0.00     13.50 (10\\u-\\u4\\u3) MongoPutlabel
+  228.6  295.5   -1.0   0      0.00     13.50 (10\\u1\\u2) MongoPutlabel
+  228.6  277.3   -1.0   0      0.00     13.50 (10\\u2\\u8) MongoPutlabel
+  228.6  259.1   -1.0   0      0.00     13.50 (10\\u-\\u3\\u6) MongoPutlabel
+  400.0  295.5   -1.0   0      0.00     13.50 (1) MongoPutlabel
+  400.0  277.3   -1.0   0      0.00     13.50 (10\\u1\\u6) MongoPutlabel
+  400.0  259.1   -1.0   0      0.00     13.50 (10\\u-\\u1\\u2) MongoPutlabel
+  102.9  295.5   -1.0   0      0.00     13.50 (E \(TeV\)) MongoPutlabel
+  102.9  277.3   -1.0   0      0.00     13.50 (T \(K\)) MongoPutlabel
+  102.9  259.1   -1.0   0      0.00     13.50 (t \(sec\)) MongoPutlabel
+ showpage
+%%Trailer
+%%DocumentFonts: Helvetica

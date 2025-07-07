@@ -1,0 +1,75 @@
+https://webapp4.asu.edu/myasu/faculty/roster?term=2221&class=12390
+
+Spring 2022 Class Roster
+
+CS PeopleSoft Gmail Canvas Google Drive ASU Library
+
+SLN   Course   Title              Enrolled  Instructor(s) Days Times           Date(s)          Location
+
+12390 AST 322  Intro/ExtraGal/Ap  52/70     Windhorst,    TTh  3:00 PM-4:15 PM 1/10/22-4/29/22  Tempe PSF-123
+
+Total Enrolled Students: 52
+
+Enrollment Capacity: 70
+
+Select All Students
+
+W/I? means: W=Withdrawn on my.asu; I=Requests Incomplete; ?=poor grade, no W (TBD in late April 2022)
+
+Nr  LastName Firstname     W/I? ID         PostID  Units GradeBasis Program and Plan               Academic Unit                   Level      ASURITE    Residency
+
+01  Abeyta Annemarie           1217438014  8014-756  3   Standard   The College of Lib Arts & Sci  EarthSpEx(Astrobio&Biogeosci)   Senior     akabeyta   Non-Resident   
+02  Alonso Kimberly            1216695688  5688-997  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     kalonso3   Resident
+03  Bandak Brandon             1214506891  6891-841  3   Standard   Ira A Fulton Engineering       Aerospace Engr (Astronautics)   Senior     bbandak    Non-Resident
+04  Berlinski Vincent          1216386132  6132-294  3   Standard   The College of Lib Arts & Sci  Earth & Space Exploration       Junior     vberlins   Non-Resident
+05  Blaske Claire              1216632352  2352-143  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     cblaske    Non-Resident
+06  Borrel Henri               1216465432  5432-357  3   Standard   Ira A Fulton Engineering       Mechanical Engineering          Senior     hborrel1   Resident
+07  Brinkman Brenden           1216386405  6405-315  3   Standard   Integrative Sciences & Arts    Interdisciplinary Studies       Junior     babrinkm   Resident
+08  Buchanan Joseph            1217108763  8763-587  3   Standard   Ira A Fulton Engineering       Aerospace Engr (Astronautics)   Senior     jcbucha2   Non-Resident
+09  Cano, Joel Email           1210510142  0142-118  3   Standard   Ira A Fulton Engineering       Engineering (Auto Systems)      Junior     jcano9     Resident
+10  Cava Victoria              1218512841  2841-804  3   Standard   The College of Lib Arts & Sci  Earth & Space Exploration       Sophomore  vcava      Non-Resident
+11  Cecil Emma                 1218480458  0458-325  3   Standard   Ira A Fulton Engineering       Mechanical Engineering          Senior     eacecil    Resident
+12  Champlin Madelyn           1216505277  5277-417  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     mchampl1   Non-Resident
+13  Cole Sara                  1217475181  5181-592  3   Standard   Ira A Fulton Engineering       Computer Science BS             Senior     sncole     Non-Resident
+14  Cunningham Dagny           1214920278  0278-906  3   Standard   Ira A Fulton Engineering       Aerospace Engr (Astronautics)   Senior     dcunni11   Resident
+15  Davis Griffin              1210692857  2857-111  3   Standard   The College of Lib Arts & Sci  Earth&SpaceExp(Geolg Sciences)  Senior     gjdavis5   Resident
+16  Dhalla Armaan              1214932264  2264-813  3   Standard   The College of Lib Arts & Sci  Earth & Space Exploration       Junior     aadhalla   Non-Resident
+17  Diaz Areli                 1212873439  3439-690  3   Standard   Ira A Fulton Engineering       Aerospace Engr (Astronautics)   Senior     adiaz67    Resident
+18  Gapinski Donovan           1219862540  2540-031  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     dgapinsk   Non-Resident
+19  Garcia Fanny               1221485109  5109-449  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     fgarci42   Non-Resident
+20  Gill Sophia                1216740395  0395-414  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Junior     sdgill2    Non-Resident
+21  Heinzen Hailey             1215079333  9333-424  3   Standard   Integrative Sciences & Arts    Interdisciplinary Studies       Senior     hheinzen   Resident
+22  Henninger Landon           1216810790  0790-796  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Junior     lchennin   Non-Resident
+23  Hoang ViAnh                1217395543  5543-491  3   Standard   Health Solutions               Biomedical Informatics          Senior     vthoang    Non-Resident
+24  Huble Khyler               1215715826  5826-116  3   Standard   Integrative Sciences & Arts    Interdisciplinary Studies       Junior     khuble     Non-Resident
+25  Ishan Haimant              1220289616  9616-689  3   Standard   The College of Lib Arts & Sci  Physics                         Sophomore  hishan     Non-Resident
+26  Joplin Makayla             1219417888  7888-132  3   Standard   The College of Lib Arts & Sci  EarthSpEx(Astrobio&Biogeosci)   Senior     mjoplin1   Resident
+27  Kimball Matthew            1214939232  9232-349  3   Standard   Ira A Fulton Engineering       Materials Sci & Engineering     Senior     mvkimbal   Resident
+28  Kroemer Christian          1214679960  9960-599  3   Standard   The College of Lib Arts & Sci  EarthSpEx(Astrobio&Biogeosci)   Senior     ckroemer   Resident
+29  Larsen Benjamin            1221260651  0651-038  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Junior     bwlarse2   Resident
+30  Lopez Jakob                1218478950  8950-209  3   Standard   Ira A Fulton Engineering       Aerospace Engr (Astronautics)   Junior     jdlope27   Resident
+31  Lund Chase                 1214482919  2919-558  3   Standard   Undergrad Non-deg/Non-Fin Aid  Energy & Sustainability (Cert)  Senior     cnlund     Resident
+32  Makhlouf Katrina           1214606380  6380-877  3   Standard   Ira A Fulton Engineering       Mechanical Engineering          Senior     kmakhlo1   Non-Resident
+33  Mcgarry Nina               1222975338  5338-801  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     nmcgarr1   Resident
+34  Nockideneh Hannah          1223490710  0710-375  3   Standard   The College of Lib Arts & Sci  Physics                         Junior     hnockide   Resident
+35  Orlandella Alex            1215861361  1361-206  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     aorlande   Resident
+36  Orlando Elizabeth          1216964879  4879-602  3   Standard   Integrative Sciences & Arts    Interdisciplinary Studies       Junior     eorlando   Non-Resident
+37  Pang Laura                 1223846611  6611-620  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Junior     lpang9     Resident
+38  Pedersen Samantha          1219584418  4418-842  3   Standard   The College of Lib Arts & Sci  Earth&SpaceExp(Geolg Sciences)  Sophomore  skpeders   Non-Resident
+39  Porto Paolo                1215343805  3805-678  3   Standard   Ira A Fulton Engineering       Aerospace Engr (Astronautics)   Senior     pporto     Resident
+40  Reynolds Nathan            1200861848  1848-349  3   Standard   Undergrad Non-deg/Non-Fin Aid  Classical Studies Latin (Cert)  Senior     ngreynol   Resident
+41  Rhodes Declan              1218666865  6865-628  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     dorhodes   Resident
+42  Rowen Gabrielle            1204939784  9784-265  3   Standard   The College of Lib Arts & Sci  Mathematics BS                  Senior     growen     Non-Resident
+43  Salazar Dulvin             1210783467  3467-053  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     dsalaz12   Resident
+44  Sands Wyatt                1215231173  1173-034  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     wfsands    Resident
+45  Schoonover Andrea          1212819060  9060-529  3   Standard   Ira A Fulton Engineering       Software Engineering            Senior     arschoon   Resident
+46  Shea Grace                 1214538754  8754-562  3   Standard   The College of Lib Arts & Sci  Earth & Space Exploration       Senior     geshea     Non-Resident
+47  Studt Gabriel              1214681702  1702-733  3   Standard   Ira A Fulton Engineering       Mechanical Engineering          Senior     gstudt     Non-Resident
+48  Summers Jake               1221695592  5592-222  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Junior     jssumme1   Resident
+49  Swirbul Andi               1218347780  7780-239  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Junior     aswirbul   Resident
+50  Tewary Vyomika             1217796671  6671-097  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     vtewary    Non-Resident
+51  Trenter Jake               1216611253  1253-525  3   Standard   Ira A Fulton Engineering       Aerospace Engr (Astronautics)   Senior     jtrenter   Resident
+52  Troiano Matthew            1217805251  5251-752  3   Standard   The College of Lib Arts & Sci  Earth&Space Exp (Astrophysics)  Senior     mtroiano   Non-Resident
+53  Yabes Charles              1000884958  4958-694  3   Standard   Herberger Institute            Environmental Design            Senior     cyabes     Resident
+54  Ferguson Caroline          1219414131  4131-786  3   Standard   Ira A Fulton Engineering       Mechanical Engineering          Junior     cfergu14   Non-Resident
+

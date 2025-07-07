@@ -1,0 +1,76 @@
+Here we suggest a problem set based on term project 4) in the Syllabus,
+which is based on the Windhorst et al. 2018 JWST caustic transit
+paper. 
+
+The astrophysics covered in this paper is so wide, that it lends itself
+well for focused questions the interns can be challenged to address
+with a view towards JWST, e.g.:
+
+1) Calculate from the data (Madau diagram, CIB power spectrum) given or
+discussed from references that the SB from Pop III objects at z>7 is
+fainter than >31 mag/arcsec^2 in K-band for both stars and stellar mass
+black hole accretion disks.
+
+2) Use simple zero metallicity Planck curves to write a computer program
+to simulate the spectra of Pop III stars and stellar mass BH accretion
+disks as a function of Temperature and redshift. For stellar mass BH
+accretion accretion disks, these need to be made radius dependent using
+the simple multi-color accretion disk model. What do you conclude
+about the fluxes seen at z>7 in the JWST filters from these objects?.
+Can you extrapolate this to mini galaxies consisting of Pop III stars
+and supermassive BH accretion disks at z>7?
+
+3) Use the simple stellar evolution models given in the Tables for
+Fe/H=0 to confirm the brightness of individual stars or BH accretion
+disk at z>7 for JWST. This include distance modulus, K-correction,
+bolometric corrections, etc. What do you conclude about JWST observing
+them?.
+
+4) What gravitational lensing properties do you need to make these
+individual Pop III stars or stellar mass accretion disks temporarily
+visible to JWST?. Discuss the lateral cluster velocities, JWST
+observing time scales, and lensing magnifications needed to make these
+objects temporarily visible to JWST, using the equations in section
+4--5 and the Appendix A. How would you design a JWST observing program
+to find these Pop III stars and BH accretion disks at z>7? [Extra
+credit for finding the typo in one of the equations in section 4.4].
+
+5) Can you run existing cluster gravitational lensing models to produce
+lensing maps as in Fig. 4ab. Can you confirm that given the angular
+size of the stars and BH accretion disks at z>7 lensing magnifications
+of 10^4-10^5 are possible and needed. Discuss complications you may run
+into with JWST.
+
+6) Can you use existing (HST or JWST) image simulation software to
+simulate what a cluster image of JWST would look like at 1--5 micron?
+Can you then add a single star or stellar mass BH accretion disk at
+z=10, and push it across the caustic, to make it visible in the image.
+[This one is not for the timid, but could lead to a PASP paper!].
+
+One could even think about a group project, where all topics get
+covered, but any of the students works on 1-2 of these aspects.
+
+We can discuss by phone how to best proceed, and have some Zoom mtgs
+with the students if needed (during fixed time slots of the week).
+
+Dr. Rogier A. Windhorst
+Regents' and Foundation Professor
+JWST Interdisciplinary Scientist
+School of Earth & Space Exploration
+Street: 450 E. Tyler Mall, Room PSF-686
+Office: 550 E. Tyler Mall, Room GWC-508
+Arizona State University
+P.O. Box 871404
+Tempe, AZ 85287-1404, USA
+
+Tel: +1-480-965-7143 or 9416 or 8950 or 5081
+FAX: +1-480-965-6362
+Email: Rogier.Windhorst@asu.edu or Rogier.Windhorst@gmail.com
+
+http://sese.asu.edu  or  http://www.jwst.nasa.gov 
+
+https://webbtelescope.org/contents/news-releases/2018/news-2018-23/
+
+https://asunow.asu.edu/20180425-discoveries-see-first-born-stars-universe
+
+

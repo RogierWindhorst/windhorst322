@@ -1,0 +1,120 @@
+%%%% RUN UNDER LINUX/MAC-OS AS:
+
+%%%% > pdflltxg* COVID19
+
+\documentclass[12pt]{aastex63}
+
+\font\kybgbf=cmb10       scaled \magstep5  %%% Largest available font
+\font\kxbgbf=cmb10       scaled \magstep4
+
+\usepackage{float}
+\usepackage{graphicx}           % for including figures
+\usepackage{latexsym}           % additional math symbols
+\usepackage{amsmath}            % To split equations across lines
+\usepackage{nccmath}            % To left-adjust long split-equations
+\usepackage{bm}                 % bold math package
+\usepackage[english]{babel}
+\usepackage{color}              % for colored text and boxes; remove for subm.
+\usepackage{booktabs}           % for hlines with space between
+\usepackage{multirow}           % for multirow
+\usepackage{natbib}
+
+%%% \setlength{\textwidth}{6.5in}
+%%% \setlength{\textheight}{9.0in}
+%%% \setlength{\oddsidemargin}{+0.00in}
+%%% \setlength{\evensidemargin}{\oddsidemargin}
+%%% \setlength{\topmargin}{+0.00in}
+
+%%% \newcommand{\deleted}[1]{\relax}%
+%%%\newcommand{\del}[1]{\relax}%
+\newcommand{\DELETED}[1]{\relax}%
+%%% \newcommand{\DEL}[1]{\relax}%
+\newcommand{\altversion}[2]{#1}{\relax}%
+
+\definecolor{violet}  {rgb}{1.0,0.0,1.0}
+\newcommand{\violet}  {\color{violet}}
+\newcommand{\vio}     {\color{dblue}} 
+\definecolor{dviolet} {rgb}{0.75,0.0,1.0}
+\newcommand{\dviolet} {\color{dviolet}}
+\definecolor{blue}    {rgb}{0.0,0.7,1.0}
+\newcommand{\blue}    {\color{blue}}
+\definecolor{lblue}   {rgb}{0.5,1,1}
+\newcommand{\lblue}   {\color{lblue}}
+\definecolor{dblue}   {rgb}{0.0,0.0,1.0}
+\newcommand{\dblue}   {\color{dblue}}
+\definecolor{blgr}    {rgb}{0.70,0.80,1.00}
+\newcommand{\blgr}    {\color{blgr}}
+\definecolor{navy}    {rgb}{0.00,0.00,0.48}
+\newcommand{\navy}    {\color{navy}}
+\definecolor{green}   {rgb}{0.7,1.0,0.0}
+\newcommand{\green}   {\color{green}}
+%%% \definecolor{dgreen}  {rgb}{0.0,1.0,0.0}
+\definecolor{dgreen}  {rgb}{0.0,0.6,0.0}
+\newcommand{\dgreen}  {\color{dgreen}}
+\definecolor{lgreen}  {rgb}{0.0,0.8,0.0}
+\newcommand{\lgreen}  {\color{lgreen}}
+\definecolor{dg}      {rgb}{0.0,0.6,0.0}
+\newcommand{\dg}      {\color{dg}}
+\definecolor{orange}  {rgb}{1.0,0.5,0.0}
+\newcommand{\orange}  {\color{orange}}
+\definecolor{dorange} {rgb}{1.0,0.6,0.0}
+\newcommand{\dorange} {\color{dorange}}
+\definecolor{brown}   {rgb}{0.1,0.1,0.0}
+\newcommand{\brown}   {\color{brown}}
+\definecolor{lbrown}  {rgb}{0.7,0.5,0.0}
+\newcommand{\lbrown}  {\color{lbrown}}
+\definecolor{red}     {rgb}{1,0.0,0.0}
+\newcommand{\red}     {\color{red}}
+\definecolor{dred}    {rgb}{0.6,0.0,0.0}
+\newcommand{\dred}    {\color{dred}}
+\definecolor{grey}    {rgb}{0.1,0.1,0.1}
+\newcommand{\grey}    {\color{grey}}
+\definecolor{lgrey}   {rgb}{0.5,0.5,0.5}
+\newcommand{\lgrey}   {\color{lgrey}}
+\definecolor{black}   {rgb}{0.0,0.0,0.0}
+\newcommand{\black}   {\color{black}}
+
+\newcommand\n            {\noindent}
+\newcommand\no           {\noindent}
+\newcommand\m            {\medskip}
+\newcommand\s            {\smallskip} 
+\newcommand\bi           {\bigskip\indent}
+\newcommand\mi           {\medskip\indent}
+\newcommand\si           {\smallskip\indent}
+\newcommand\bn           {\bigskip\noindent}
+\newcommand\mn           {\medskip\noindent}
+\newcommand\sn           {\smallskip\noindent}
+\newcommand\cl           {\centerline}
+\newcommand\ve           {\vfill\eject}
+%
+
+\newlength{\txw}\setlength{\txw}{\textwidth}
+\newlength{\txh}\setlength{\txh}{\textheight}
+
+\renewcommand{\textfraction}{0.000}
+
+\newcommand{\citebox}[1]{\hspace*{1.5em}\parbox[t]{0.45\txw}{\hspace*{-1.8em}#1\\[-4pt]}}%
+
+%%% \baselineskip=12pt %%% for single spacing, =24pt for double spacing
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\vspace*{+5.0cm}
+
+\n \begin{center}
+
+\textcolor{red}{\kybgbf\red Covid19 rules}\\[-10pt]
+
+\bn
+
+\bn
+
+\textcolor{red}{\kxbgbf\red for spring 2022}\\[-10pt]
+
+\end{center}
+
+\ve 
+
+\end{document} %%%% 

@@ -1,0 +1,20 @@
+# Make tarpack of everything HW:
+
+cd /Users/raw/teach/ast322s24/HWold_ast422s12/
+
+tar cvfz HWsolns.tar.gz *
+
+# Unpack tarpack in a NEW directory as:
+
+cp -pr HWsolns.tar.gz /Users/raw/zzzdir/.
+
+cd /Users/raw/zzzdir/
+
+tar xvfz HWsolns.tar.gz
+
+ls -la
+
+\rm /Users/raw/zzzdir/*
+
+exit
+

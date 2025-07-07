@@ -1,0 +1,69 @@
+#First line is grading rubric for perfect student. Appendix is up to +10 points
+#Normal Maximumscore for TP is 80 points, plus extra credit up to 90 points
+#Statistic: 42 PDFs handed in (24-apr-24), 2 expected LATE, 12 no-shows ( --- )
+#Topic: EHT(7)  GCbh(7)  Ho(1)  LIGObh(12)  LIGOns(0)  
+#Topic: CTs(0)  Interst(12)/Gravity(3)   Friedman/Honors(3) 
+#FirstName  LastName   TPtopic  12ASUID  Ab In Da  Me  Re Di Co Rf Fi Ap  TP
+#Mary       MaximScore Science  34567890*10 10  8   8   8  8 10  8 10 10  90*
+#FirstName  LastName   TPtopic  12ASUID  Ab In Ph Vio Cns ET Co Rf Fi  0  TP
+#Mary       MaximMovie Movie    34567890*10 10 10  10  10 10 10 10 10  0  90*
+Arkon Conner           Interst  24669667  8 10  8   9  12  8  7  5 10  0  77
+Ashcroft Kaitlyn       LIGObh   16417397  9  9  5  10  10  6  6  3 12  0  70
+Ayaz Syed Hamza        LIGObh   29636501  8  8  8   6   8 10  6 10  8  0  72
+Bhasker Divyam         Gravity  25098641 10 10 12  12  10  8  8  7  8  0  85
+Biswal Om Xtra 48/2=24 Gravity  26425839  8  5  8   7   8  0  8  4  0  0  24
+Biswal Om              Interst  26425839  6  6  7   8  11  7  6  6 10  0  67
+Bowman Gabriel         ---      19985806  0  0  0   0   0  0  0  0  0  0   0
+Calcerano Olivia       GCbh     22082654 10 12  8  10  10 10  9  4 15 10  98 
+Carl Naomi             EHT      22112008 10  8  8  10   8  7 11  4 10 12  88
+Charley Kiera          GCbh     22907205  8  8  8   6   8  7  6  2 10  4  67
+Daniels Dalen          ---      19848019  0  0  0   0   0  0  0  0  0  0   0
+Darnell James          EHT      22650390 11  8  5  10  10  7  8  5 12  5  81
+Derhaliuk Anastasiia   LIGObh   25533036  9 12 10  12  12  9 10  4 12 10 100
+Farnsworth Kylie       ---      29575154  0  0  0   0   0  0  0  0  0  0   0
+Gahlot Arnav           Research 23205399  8  9  6   6   7  6  7  0 10 12  61
+Gillmon Adalyn         Interst  22810095  7  9 10   9  11  9  0  4  5  0  64
+Gonzalez Joshua        Interst  29595564  7  5  7   8   5  7  4  4 15  0  62
+Guerrero Angel         ---      16648914  0  0  0   0   0  0  0  0  0  0   0
+Haramis Cole           ---      25068676  0  0  0   0   0  0  0  0  0  0   0
+Hartmann Makenna       LIGObh   24703090  8 10  8   7   9  6  7  5  8 10  78
+Heider Braedon         ---      28141371  0  0  0   0   0  0  0  0  0  0   0
+Heldman Madison        GCbh     21938471 10 12  7   7   9  8 10  4 12 12  91
+Horovitz Miranda       GCbh     23939340  9  9  7   8   8  7  8  6 12 10  84
+Jones Matt             GCbh     30487832  7 10  8   6   5  7  8  3 10  8  72 
+Joseph Daniel          LIGObh   16333677  7  7  5   7   5  7  8  1  8  0  55
+KarabeesLamer Devon    Interst  21820873  8  5  8  12   8  7  7  6 12  0  73
+Kenny Zachary          EHT      27741205  6  8  5   6   7  6  6  2 10  5  61
+Kondapally Manaswi     LIGObh   22117078  9 10  7   7  10  6  8 10 12 12  91
+Layman Alexander       EHT      21824994  5  6  8   4   4  4  5  3  8 10  57
+Makin Susmita          ---      21327731  0  0  0   0   0  0  0  0  0  0   0
+Mammadli Aykhan        EHT      26766972  8  7  3   6   5  6  6  6  5  0  52
+Martinez Anastasia     LIGObh   10868500  9 12 12   8  11 10  8  3 18  0  91
+Monti Caleigh          LIGObh   24585154 11  8  9   9   7  6  7  4  8 12  81
+More Apurva Milind     EHT      22737542 10 14  8   8  10  7  8  6 10  3  84
+Nathiley Devansh       Interst  22387439  9  9 12   8   9  8  7  6 10  0  78
+Nelander Alexandra     LIGObh   21204816  8  8  4  10  11  6  6  3 12  8  76
+Nelson Hailey          LIGObh   21476542  8  7  4   8   9  7  5  3 12 15  78
+Ogunsami Chris         Interst  29448573  8  9  8  12  15  11 3  3  6  0  72
+Osborne Quinn          Interst  19186098  8  7  6   5   6  7  5  3  6  0  53
+Pan Jihang             ---      25152591  0  0  0   0   0  0  0  0  0  0   0
+Peachera Daivik        ---      19812256  0  0  0   0   0  0  0  0  0  0   0
+Peterson Carter        ---      24873975  0  0  0   0   0  0  0  0  0  0   0
+Perivolotis Jakob      EHT      21859275  9  8 10  10   8  5 10  4 10  8  82
+Pocock Allistair       Interst  18369152 10  7 12  10   8  9  8  7  5  0  76
+Pocock Allistair       Friedman 18369152 10  9  9   7  12 10 10  2 15 10  94 
+Roman Lozada Jeinnyliz ---      19663029  0  0  0   0   0  0  0  0  0  0   0
+Rudesill Sam           LIGObh   27552926  8 12  6   7   4  6  7  4  8  6  68
+Schutt Casper          LIGObh   22815022  8 10 10   8  10  8  5  7 12  5  83
+Shrivastava Devyansh   Interst  23451073 10  8 10  12  10 12  5 12  8  0  87
+Smith Samuel           Friedman 25881282  7 10  4  10   7 10  6  2 12  5  73 
+Tata Aditi             Ho       16972575  6  7  4   4   4  5  5  4  0  0  39
+Thomas Tyler           ---      13088095  0  0  0   0   0  0  0  0  0  0   0
+Thompson Christian     GCbh     22380471 10  9  9  12   8 10 10  2 12 12  94
+Thompson Christian     Friedman 22380471  0  0  0  15  12 15 15  0 15  8  80
+Weber Aaron            GCbh     22270920  9  7  5   5   5  7 10  4  8  6  66 
+Wetzel Alex MED-LATE; INCOMPL.  22061919  0  0  0   0   0  0  0  0  0  0   0
+Wise Benjamin          Interst  24441504  7 12  8  15   8 10  5 12 12  0  89
+Yabes Charles          Interst  00884958 12 10 11  11  10 12 10  2  0  0  78
+Zick Caleb             Gravity  26049697 11  8  5  14   8 10  5 12 10  0  83
+

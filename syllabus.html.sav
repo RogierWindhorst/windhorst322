@@ -1,0 +1,586 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en"> <html> <head>
+<meta http-equiv="refresh" content="300">
+<meta name="GENERATOR" content="Mozilla/4.72 [en] (Windows NT 5.0; I) [Netscape]">
+<title>syllabus</title> </head> 
+
+<body text="#000000" bgcolor="#FFFFFF" link="#0000FF" vlink="#FF0000">
+
+<h2> <font face="Arial, Helvetica"><font color="#0000FF"><B>
+
+AST 322 -- Syllabus and Course Rules - Spring 2024
+
+</B></font></font></font></h2>
+
+<P> <font color="#000000">
+
+<P>
+
+<P>
+
+<B>Course description: </B>
+
+The AST 322 students will be taught the highlights of modern Lambda-CDM (Cold
+Dark Matter) cosmology, starting with the basics of Special and General
+Relativity. The second part of the course will focus more on the main
+observations that have led to modern Lambda-CDM cosmology. The course will be
+general enough to be of interest and use to students in astrophysics, 
+aerospace and mechanical engineering, mathematics and computer science, 
+physics, space exploration, and related fields. 
+
+<P>
+
+<B>Learning outcomes: </B>
+
+Upon successful completion of this course students will be able to derive and
+solve the Friedmann equations for relativistically expanding universes, and be
+able to digest modern observational papers on Lambda-CDM cosmology, including
+writing a meaningful term project on a topic of their choice in this field.
+This will prepare them for research in astrophysics and cosmology, as well
+applying the basic laws of physics and relativity to real-world situations. 
+
+<P>
+
+<B>Prerequisites: </B> Basic physics and math at the 200 level. For the term 
+project due Tu April 18-21, 2024, you may need some basic plotting skills (e.g.,
+MATLAB, Python, or any other common plotting package). For a few homework
+questions, you will need to know how to solve a simple differential equation
+--- if you have not already covered this in a previous course, the TAs will
+setup a tutorial session to help you do this. I will try to limit the math on
+GR in the first part of the course (Jan-Mar), or we'll never get to the
+important parts on observational cosmology, galaxy formation and evolution. I
+designed AST 322 so that you can follow it without yet having done all the
+other extragalactic AST 300 or 400-level courses, although astrophysics
+students will need to take these in the future if you haven't already done so. 
+
+<P>
+
+<B>Textbooks: </B> Modern cosmology deals with <IMG
+ WIDTH="50" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="img7.png"
+ ALT="$\sim10^{80}$"> particles and 
+<IMG
+ WIDTH="33" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="img8.png"
+ ALT="$10^{89}$"> photons in a volume that is currently <!-- MATH
+ $\sim
+10^{120}\times$
+ -->
+<IMG
+ WIDTH="69" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="img9.png"
+ ALT="$\sim 10^{120}\times$"> that of the electron, and describes an era <!--
+MATH $\sim 10^{60}\times$
+ -->
+<IMG
+ WIDTH="63" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="img10.png"
+ALT="$\sim 10^{60}\times$"> longer than the Planck time. This is why no-one has
+a complete grasp of the subject, so there is <I>no</I> good modern textbook on
+cosmology. I spent quite some time to find textbooks on (observational)
+cosmology that are acceptable, and came up with the following:
+
+<P>
+
+<B>WARNING: </B> Most of modern theoretical cosmology was developed from
+1910-today (with the main analytical framework in place by 1965) and most of
+observational cosmology from 1960-today. Hence, my most important message to
+you is that Cosmology is NOT a point-and-click science, so there is remarkably
+little about cosmology you can learn and fully understand from the WWW if you
+haven't first properly digested a complete textbook on cosmology. So please do
+NOT focus the study for this class on the Web -- you will get lost and miss the
+essentials. You will notice quickly that it is far more important for this
+class to have understood a given problem, than to come up with Web-material
+that does little to enhance your understanding of the problem. The only time
+that Web-use is essential or appropriate is when you prepare for the term
+project and retrieve modern papers on the subject.
+
+<P>
+
+<B>(1) ``Introduction to Cosmology, 2nd Edition'', by Barbara Ryden </B>
+[hereafter abbreviated as Ry], 2017, Cambridge University Press (UK), York),
+ISBN: 978-1-107-15483-4, hardback, costs about $ 55 to buy new or $ 25 to rent. 
+This book is mandatory to buy for this class, and we will follow it closely. 
+Do NOT buy the 1st edition from 2003, as it is no longer up-to-date. Ryden's
+2nd Edition is a fully updated, new book (as of late fall 2016) with an
+excellent up-to-date discussion of modern cosmology including the basic
+Friedmann-Robertson-Walker frame-work. However, it does not address all
+relevant aspects of observational cosmology, which is why I suggest that we may 
+use Longair's book as complementary source of material. The important parts to
+fetch from Ryden's book are chapter 3-10, which provide a more modern framework
+of Lambda-dominated and equation-of-state cosmologies. If you take this course
+for a grade, you need to get and read Ryden's book: 
+
+<P>
+
+<B>At the ASU Bookstore:</B> book costs $ 25--55 for Rent/Buy--Used/New, see:
+<a href=" 
+https://www.bkstr.com/arizonastatestore/course-materials-results?shopBy=courseRefId&courseRefId=12390&programId=2911&termId=100066852
+">
+https://www.bkstr.com/arizonastatestore/course-materials-results?shopBy=courseRefId&courseRefId=12390&programId=2911&termId=100066852
+</a>.
+
+<P>
+
+<B>E-book version of the text-book:</B> A Kindle Edition
+of the textbook can be rented for about $ 30. Open new browser window for: <a
+href=" http://www.amazon.com "> http://www.amazon.com </a>. Then in the Amazon
+search window, enter: `` Barbara Ryden Introduction to Cosmology Ebook ''. 
+
+<P>
+
+<B>Lecture notes and voluntary reading:</B> Click on the Scripts button for
+(PDF or PPT) slides of all figures in the text book, and notes on all chapters
+in the textbook. You are strongly advised to <I>make your own notes</I>.
+
+<P>
+
+<P>
+Other books on Cosmology that are useful, but by no means complete, nor
+up-to-date, nor unbiased, are listed below. These are NOT mandatory, but will
+used occasionally as reference during the semester. Where necessary, the TA
+will provide you with copies of a few of the relevant pages:
+
+<P>
+
+<P>
+<B>(2) ``Galaxy Formation'', by Malcolm S. Longair </B> [hereafter abbreviated
+as ML] 1998, Springer Verlag (Berlin), ISBN=3-540-63785-0, hardcover costs
+about $ 90. This book is optional, and only suggested for those who intend to
+become astronomy PhD graduate students some day. Longair's book is a
+remarkably good book that strikes an appropriate balance between modern
+theories and modern observations, without getting lost in unnecessary details.
+It is about the best relatively modern book available that lays the foundations
+for observational cosmology. Written by one of the most gifted observational
+astronomers in the UK. Since it came out in late 1998, Longair's book mostly
+discusses the classical <IMG WIDTH="15" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+SRC="img12.png" ALT="$\Lambda$">=0 Friedmann models, and doesn't deal with the
+latest Lambda-dominated and equation-of-state cosmologies, which is why we will
+mostly lean on book (1). Longair's book does cover other topics in better
+detail, such as gravitational lensing. Where needed, I will use some charts from
+other books in class. 
+
+<P>
+
+<P>
+
+<B>Schedule:</B> An outline for AST 322 is given in the attached Schedule. We
+will follow this schedule in principle, but changes may be announced later.
+
+<P>
+
+<B>Interaction:</B> Despite the fact that this lecture and Zoom room might be
+intimidating, I invite you to ask questions about the material. I like to have
+interaction with the class, and will give plenty opportunity to ask questions.
+The first few minutes after class starts will be set aside for questions in
+particular. <I>The 15 min immediately before class are strictly off-limits for
+questions, since I need this time to setup and store away the
+audiovisuals.</I> Our office hours are available if you need individual help.
+Please feel free to raise your (Zoom) hand during class-time if you have a
+question, and when I call your question, please speak up loudly, so that
+everyone can hear it (i.e., unmute yourself in Zoom when you need to speak,
+but mute at all other times). 
+
+<P>
+
+<B>Weekly Homework (H/W):</B> There will be a few weekly homework problems, due
+every Thursday at the start of class. Submit a copy of your homework as PDF 
+file only via Canvas, and provide a printed paper copy to the TAs (after 
+Thursday's class time). We do not accept MS doc(x) files. The TAs will have each
+homework set graded by the next Tuesday, and we may briefly discuss them at
+the start of next Tuesday's class. Hence, no late H/W will be accepted after
+the solutions have been discussed. Only in some cases will extensions be
+granted, and in such cases, the student must email the TAs at least 48 hours
+before the homework is due. If no extension is given, homework received after
+the deadline (but before solutions are discussed) will receive only half credit.
+
+<P>
+
+<B>Term Project:</B> There will also be a Term Project, which will entail
+writing a 10 page ApJ Letter style paper on a cosmology subject of your choice, and
+which will be due the week before finals week. All of this must be your own
+work, although you should consult the literature, and may discuss it with
+others. To clarify, you could do a join Term Project developing a database or
+code together, as long as you list your team-mates as co-authors or
+collaborators on your own Term Project paper and describe what everyone did. 
+But writing your own Term Project paper must be entirely your own work. Copying
+from others or from (poor!) Web-sources is not allowed (see ASU rules on
+plagiarism below) -- we want to grade you on how well you understand the
+material, not how well you can copy. The rubric for the sections your 10-page
+term paper should contain is listed <a href="
+ast322s19_RubricforTermPaperRequirement.pdf"> here</a> (an Appendix is
+optional for supplemental materials). We are open to other suggestions as to how
+you want to be tested on the subject. As this is a fairly new undergraduate
+course under development in a rapidly evolving field, we particularly covet your
+feedback at the beginning of the semester, and throughout, as to what can be
+done better.
+
+<P>
+
+<B>Honor's Project credit:</B>Honor's Projects may be done for Honor's credit
+based on Ryden Figure 5.6: choose about 20-25 different (Omega_M, Omega_Lambda) 
+values, as indicated by the asterisks in Fig. 5.6, and solve the Friedmann
+equation (Eq. 5.81) by numerically solving Eq. 5.83 for each of the 20-25
+different cases. Plot a(t) for each universe as in Ryden Fig. 5.7 (make up to
+20-25 of these plots) showing that each universe can exist as a valid solution
+of the the Friedmann equation. Make sure your models cover all the relevant
+parameter space as in Ryden Fig. 5.6-5.7. Then summarize your result in a <10
+page paper including figures. All Honor's credit Email correspondence should go
+directly to the UG TA Jake Summers 
+<a href="mailto:jssumme1@asu.edu">jssumme1@asu.edu</a>. They can sign the 
+Honor's contracts on my behalf. 
+
+<P>
+
+<B>You may chose from the following Term Project or Honor's Project topics:</B> 
+
+<P>
+
+1a) Riess et al. (2011, 2016, 2018) HST Cepheid H_o papers, e.g.,: 
+<a href="Riess2011ApJ730_119.pdf ">
+http://adsabs.harvard.edu/abs/2011ApJ...730..119R </a> ;
+<a href="Riessetal2016ApJ826_56.pdf ">
+http://adsabs.harvard.edu/abs/2016ApJ...826...56R </a> ; 
+<a href="Riessetal2018ApJ1801.01120.pdf "> 
+http://adsabs.harvard.edu/abs/2018arXiv180101120R </a> ; and
+<a href="Riess_Ho_2112.04510.pdf "> 
+https://ui.adsabs.harvard.edu/abs/2021arXiv211204510R/ </a>. 
+A provocative recent paper on the H_o controversy and an alternative cosmology 
+(NOT for term paper!): <a href="DiValentino2020NatureAst4.196.pdf ">
+https://arxiv.org/abs/1911.02087 </a>
+
+<P>
+
+1b) Planck Collaboration Cosmology papers, e.g.,: <P>
+
+Planck --- 2018 Cosmological Parameters: <a href="Planck2018_VI_cosmologicalparms.pdf ">
+https://arxiv.org/abs/1807.06209 </a> <P>
+
+Planck --- 2016 Cosmology & definitions: <a href="PlanckXIII2016AA594.A13.pdf ">
+2016a, A&A, 594, A13; </a> <P>
+
+Planck --- 2014 Cosmological Parameters: <a href="Planck_2014_16_AA571A16.pdf ">
+2014a, A&A, 571, A16; </a> <P>
+
+Planck --- Foreground Maps: <a href="PlanckX_ForegroundMaps2016AA594.A10.pdf">
+2016b, A&A, 594, A10; </a> <P>
+
+Planck --- CMB Maps: <a href="PlanckIX_CMBmaps2016AA594.A09.pdf"> 2016c, A&A,
+594, A09; </a> <P>
+
+Planck --- Polarization Maps: <a href="
+PlanckXLVI_PolarMaps2016AA596.A107.pdf"> 2016d, A&A, 596, A107; </a> <P>
+
+--- 2016e, A&A, 594, A2; --- 2016f, A&A, 596, A108.
+
+<P>
+
+2a) LIGO gravitational wave papers: <a href=" https://arxiv.org/abs/1602.03837
+"> https://arxiv.org/abs/1602.03837 </a> (e.g., Abbott, B. P., et al. 2016a, <a
+href=" LIGOcollab2016_PRL_116_061102.pdf "> Physical Review Letters, 116, 061102
+</a>; --- 2016b, PRL, 116, 241103; --- 2017a, PRL, 118, 221101; --- 2016c,
+ApJL, 818, L22; --- 2016d, ApJL, 832, L21; 2016e, ApJL, 833, L1); 
+
+<P>
+
+2b) LIGO neutron star merger papers: <a href=" https://arxiv.org/abs/1710.05832
+"> https://arxiv.org/abs/1710.05832</a> (e.g., Abbott, B. P., et al. <a href="
+LIGOcollab2017_PRL_119_161101.pdf "> 2017b, PRL, 119, 161101 </a>; 2017c,
+ApJL, 848, L13; Chornock, R., et al. 2017, ApJL, 848, L19; Cowperthwaite, P.
+S., et al. 2017, ApJL, 848, L17); see also Prof. Butler's chart <a href="
+ligo_NButler_chalktalk_19oct17.pdf "> here </a>; or
+
+<P>
+
+3) As of April 10, 2019 -- First discovery of a Black Hole shadow: <a href="
+EventHorizonTel2019ApJL875_L1.pdf "> The Event Horizon Telescope Collaboration
+2019, ApJL, 875, L1 </a> and <a href=" EventHorizonTel2019ApJL875_L4.pdf "> 
+The Event Horizon Telescope Collaboration 2019, ApJL, 875, L4 </a>. See also
+the April 10, 2019 press release: <a href="
+https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT ">
+https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT </a>, and <a
+href=" https://www.esa.int/gsp/ACT/phy/Projects/Blackholes/WebGL/ "> the
+beautiful ESA ACT black hole shadow simulation webtool </a>. And as of 2022, 
+also an Event Horizon image of the massive Black Hole in our Galactic Center:
+<a href="
+https://ui.adsabs.harvard.edu/abs/2022ApJ...930L..12E/abstract ">
+https://ui.adsabs.harvard.edu/abs/2022ApJ...930L..12E/abstract </a>, 
+<a href=" EventHorizonTel_GalCenterBH_2022ApJL930L12.pdf ">
+or its PDF: </a>. 
+
+<P>
+
+4) The Massive Black Hole in the Center of our Galaxy: <a href="
+https://www.nature.com/articles/d41586-020-02764-w "> 
+Physicists who unraveled mysteries of black holes win 2020 Nobel prize in 
+Physics </a>. See also <a href="
+https://www.nature.com/articles/d41586-018-05825-3 ">
+Milky Way's black hole provides long-sought test of Einstein's General 
+Relativity </a>, and the papers on <a href=" 
+Ghez_2008_ApJ_689_1044.pdf ">
+https://ui.adsabs.harvard.edu/abs/2008ApJ...689.1044G/abstract </a>, or 
+<a href="
+Ghez_2008_ApJ_689_1044.pdf ">
+Ghez_2008_ApJ_689_1044.pdf </a>, and <a href="
+Genzel_2010_RevModPhys_82_3121.pdf ">
+https://ui.adsabs.harvard.edu/abs/2010RvMP...82.3121G/abstract </a>, or 
+<a href="
+Genzel_2010_RevModPhys_82_3121.pdf ">
+Genzel_2010_RevModPhys_82_3121.pdf </a>.
+
+<P>
+
+5) Population III Caustic Transit paper: <a href=
+" http://arxiv.org/abs/1801.03584 "> http://arxiv.org/abs/1801.03584 </a>
+(Windhorst, R. A., Timmes, F. X., Wyithe, J. S. B. et al. 2018, ApJS, 234, 41);
+(see also <a href=" http://adsabs.harvard.edu/abs/2018ApJS..234...41W ">
+http://adsabs.harvard.edu/abs/2018ApJS..234...41W </a>), or just get the 
+published PDF file here: <a href=" 
+http://windhorst322.asu.edu/Windhorstetal2018ApJS234.41.pdf "> Windhorst et
+al. 2018, ApJS, 234, 41 </a>. The April 25, 2018 press releases are here: <a
+href=" https://webbtelescope.org/articles/2018-23 ">
+https://webbtelescope.org/articles/2018-23 </a> and 
+https://asunow.asu.edu/20180425-discoveries-see-first-born-stars-universe .
+
+<P>
+
+6) Mystery topic: To be discussed first day of classes.
+
+<P>
+
+<B>Final Exam:</B> There will not be a final exam nor a midterm. 
+
+<P>
+
+<B>Grading policies and percentages: </B> Your final grade will be determined
+from your class attendance, the 8 H/W sets and the semester term-project. No
+make-up H/W sets will be given after previous H/W has been returned. Class
+attendance will be kept through a twice-weekly attendance sheet that you must
+sign before leaving the class period.
+
+<P>
+
+The total possible maximum score is 240 points: a maximum of 20 points for
+each of the 8 H/W sets for a total of 160 H/W points and 80 points for the
+term project, For upper division undergraduate courses, the grades are likely
+not on a strong curve, but closer to a straight scale, which includes A+, A,
+A-, B+, B, B-, C+, C, D, and E. From past experience, if you do your best on
+all the homework and the term project, most students will end up with A-B
+grades. The A+ grade reflects excellent work and active class participation.
+
+<P>
+
+<B>Extra Credit Points:</B> A maximum number of 20 total <I>extra credit</I>
+points may be obtained during the semester. Therefore, you may earn up to a
+maximum of 260 points in this course. 10 of these points will be dependent upon
+class attendance and the other 10 will be dependent upon in-class participation
+(answering or proposing great questions) and a few extra credit homework
+problems. The TAs will log this extra credit during class time. Make sure you
+contact the TAs right after class if extra credit for an excellent question or
+answer was awarded. The best thing you can do for your grade is regular class
+attendance and active participation in class.
+
+<P>
+
+<B> AST Grades will be available on Canvas, see: </font></B> 
+<a href="
+http://students.asu.edu/student-records-grades
+">
+http://students.asu.edu/student-records-grades
+</a> </font>
+
+<P>
+
+<B>Due Dates:</B> To avoid overloading The TAs and myself in the grading of all
+materials at the end of the semester, all due dates listed in the syllabus will
+be strictly enforced. The TAs will reward early submissions with early-bird
+extra credit, and will take points off for late submissions, if these even can
+still be accepted. 
+
+<P>
+
+<B>Web-pages relevant to AST 322:</B> Since a stunning number of NASA images
+relevant to AST 322 have become available in recent years, I will continue to
+teach with the large-screen connected to a PC to show some of the best images.
+Click on the ``Links'' button to see some of the Web-pages relevant to AST 322. 
+
+<P> 
+
+<B>ASU requires us to list the following ASU policies on our syllabi (revised 
+01/24)</B> 
+
+<P> 
+
+<B>Accommodation for Religious Practices:</B> 
+The university community should, in all its activities, be sensitive to the
+religious practices of the various religious faiths represented in its student
+body and employees. Faculty are asked to recognize the obligations of their
+students who may be participating in the observance of religious holidays.
+Students should notify faculty at the beginning of the semester about the need
+to be absent from class due to religious observances. For more information,
+visit 
+<a href="
+http://www.asu.edu/aad/manuals/acd/acd304-04.html ">
+http://www.asu.edu/aad/manuals/acd/acd304-04.html </a>
+
+<P> 
+
+<B>Missed Classes Due to University-Sanctioned Activities:</B>
+Students who participate in university-sanctioned activities that require
+classes to be missed, shall be given opportunities to make up examinations and
+other graded in-class work. Normally, the made-up work will be due on the class
+day immediately after the absence. Absence from class or examinations due to
+university-sanctioned activities does not relieve students from responsibility
+for any part of the course work required during the period of the absence. For
+more information, visit 
+<a href="
+http://www.asu.edu/aad/manuals/acd/acd304-02.html ">
+http://www.asu.edu/aad/manuals/acd/acd304-02.html </a>
+
+<P>
+
+<B>Accommodating students with disabilities:</B> 
+Students who feel they will need disability accommodations in this class but
+have not registered with the Student Accessibility and Inclusive Learning
+Services office should contact SAILS immediately. The SAILS Tempe office is
+located on the first floor of the Matthews Center Building. SAILS staff
+can also be reached at (480) 965-1234 (V) or (480) 965-9000 (TTY). For
+additional information, visit: 
+<a href="
+https://eoss.asu.edu/accessibility ">
+https://eoss.asu.edu/accessibility </a>
+
+<P> 
+
+<B>Academic Integrity and Anti-Plagiarism Policy:</B> 
+Academic honesty is expected of all students in all examinations, papers, and
+laboratory work, academic transactions and records. The possible sanctions
+include, but are not limited to, appropriate grade penalties, course failure
+(indicated on the transcript as a grade of E), course failure due to academic
+dishonesty (indicated on the transcript as a grade of XE), loss of registration
+privileges, disqualification and dismissal. For more information, see
+<a href="
+http://provost.asu.edu/academic-integrity ">
+http://provost.asu.edu/academic-integrity </a>
+
+<P> 
+
+Plagiarism of any kind will not be tolerated. Students must take the exams
+independently without assistance from other students. Students may not submit
+papers written by persons other than themselves. Students must submit original
+work for this course and may not submit papers previously submitted to (an)
+other class (es). The ASU student academic integrity policy lists violations in
+detail. These violations fall into five broad areas that include but are not
+limited to: (1) Cheating on an academic evaluation or assignment; (2)
+Plagiarizing; (3) Academic deceit, such as fabricating data or information; (4)
+Aiding academic integrity policy violations and inappropriately collaborating;
+(5) Falsifying academic records. See 
+<a href="
+https://provost.asu.edu/academic-integrity ">
+https://provost.asu.edu/academic-integrity </a>
+
+<P> 
+
+In practice, this means that you are <I>not</I> allowed to hand in the same
+H/W or Term Project paper as your class mates. Your homework and term project
+will be checked for copying from the internet. Doing so, or copying from
+neighbors, allowing others to copy, will all be considered cheating and result
+in an EX <I>for the course</I>. No exceptions. Morale of the story is that
+cheating and plagiarism are not worth it, and about as dangerous for your
+career as falling into a black-hole: <a href="https://makeagif.com/i/fi2vzJ
+">https://makeagif.com/i/fi2vzJ</a> !
+
+<P> 
+
+<B>Copyright:</B> 
+Students must refrain from uploading to any course shell, discussion board, or
+website used by the course instructor or other course forum, material that is
+not the student's original work, unless the students first comply with all
+applicable copyright laws; faculty members reserve the right to delete
+materials on the grounds of suspected copyright infringement. For more
+information, see the Computer, Internet, & Electronic Communications Policy at
+<a href="
+http://www.asu.edu/aad/manuals/acd/acd125.html ">
+http://www.asu.edu/aad/manuals/acd/acd125.html </a>
+
+<P>
+
+<B>Recorded materials:</B> The contents of this course, including lectures and
+other instructional materials, are copyrighted materials. Students may not
+share outside the class, including uploading, selling or distributing course
+content or notes taken during the conduct of the course. Any recording of class
+sessions is authorized only for the use of students enrolled in this course
+during their enrollment in this course. Recordings and excerpts of recordings
+may not be distributed to others.
+
+<P> 
+
+<B>Disruptive, Threatening, or Violent Behavior:</B>
+In the classroom and out, students are required to conduct themselves in a
+manner that promotes an environment that is safe and conducive to learning and
+conducting other university-related business. All incidents and allegations of
+violent or threatening conduct by an ASU student will be reported to the ASU
+Police Department (ASU PD) and the Office of the Dean of Students. Such
+incidents will be dealt with in accordance with the policies and procedures
+described in Section 104-02 of the Student Services Manual, available at
+<a href="
+http://www.asu.edu/aad/manuals/ssm/ssm104-02.html ">
+http://www.asu.edu/aad/manuals/ssm/ssm104-02.html </a>
+
+<P>
+
+<B>Expected classroom behavior:</B> Be sure to arrive on time for class.
+Excessive tardiness will be subject to sanctions. If you need to Zoom into
+class due to illness, always turn your cameras off, which improves everyone's
+net speed, and mute yourself, but unmute when you need to or are invited to
+speak. Under no circumstances should you allow your cell phone to ring during
+class. Any disruptive behavior, which includes ringing cell phones, listening
+to your mp3/iPod player, text messaging, constant talking, eating food noisily,
+reading a newspaper, or inappropriate Zoom behavior will not be tolerated. 
+
+<P> 
+
+<B>Prohibition Against Discrimination, Harassment, and Retaliation:</B> Title
+IX is a federal law that provides that no person be excluded on the basis of
+sex from participation in, be denied benefits of, or be subjected to
+discrimination under any education program or activity.  Both Title IX
+and university policy make clear that sexual violence and harassment based on
+sex is prohibited.  An individual who believes they have been subjected
+to sexual violence or harassed on the basis of sex can seek support, including
+counseling and academic support, from the university.  If you or someone
+you know has been harassed on the basis of sex or sexually assaulted, you can
+find information and resources at
+<a href="
+https://sexualviolenceprevention.asu.edu/faqs ">
+https://sexualviolenceprevention.asu.edu/faqs </a>.
+
+As a mandated reporter, I am obligated to report any information I become aware
+of regarding alleged acts of sexual discrimination, including sexual violence
+and dating violence. ASU Counseling Services,
+<a href="
+https://eoss.asu.edu/counseling "> 
+https://eoss.asu.edu/counseling </a>, 
+is available if you wish discuss any concerns
+confidentially and privately.
+
+<P>
+
+<B> Important Dates - see: </font></B>
+<a href="
+http://students.asu.edu/academic-calendar
+">
+http://students.asu.edu/academic-calendar
+</a>.
+
+<P>
+
+<ul><li> <font face="Arial">
+March 31, 2024 --- Course Withdrawal Deadline </font></li>
+
+<li> <font face="Arial">
+April 26, 2024 --- Complete Session Withdrawal Deadline </font></li></ul>
+
+<font color="#000000"> 
+
+
+</body></html>
+
