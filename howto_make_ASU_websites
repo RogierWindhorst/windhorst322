@@ -33,7 +33,7 @@ scp -pr -P 9022 *.html windhors@antelope.sese.asu.edu:/webuser/www/windhorst322.
 
 ### scp -pr * windhors@general.asu.edu:/afs/asu.edu/www/clas/hst/classes/ast322/. 
 
-scp -pr *.html windhors@general.asu.edu:/afs/asu.edu/www/clas/hst/classes/ast322/. 
+### scp -pr *.html windhors@general.asu.edu:/afs/asu.edu/www/clas/hst/classes/ast322/. 
 
 
 # All AST files will then be on: 
