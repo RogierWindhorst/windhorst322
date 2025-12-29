@@ -2,9 +2,9 @@
 # 
 # TO ACCESS CLASS PAGES FOR EVERY CLASS DO:
 # 
-# cd /Users/raw/teach/ast322s25/
+# cd /Users/raw/teach/ast322s26/
 
-# LOCAL URL: file:///Users/raw/teach/ast322s25/index.html
+# LOCAL URL: file:///Users/raw/teach/ast322s26/index.html
 
 
 # ssh -p 9022 windhors@129.219.108.241         ### OR:
@@ -29,25 +29,25 @@
 scp -pr -P 9022 *.html windhors@antelope.sese.asu.edu:/webuser/www/windhorst322.asu.edu/.
 
 
-# Put backup files on mirror site on General:
+# Put backup files on mirror site on Microjansky:
 
-### scp -pr * windhors@general.asu.edu:/afs/asu.edu/www/clas/hst/classes/ast322/. 
+### scp -pr * raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast322/.
 
-### scp -pr *.html windhors@general.asu.edu:/afs/asu.edu/www/clas/hst/classes/ast322/. 
+scp -pr *.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast322/.
 
 
-# All AST files will then be on: 
-# 
-# http://windhorst322.asu.edu/
-# 
-# Backup files on General are on:
+# All AST files will then be on:
 #
-# http://www.asu.edu/clas/hst/classes/ast322/
-# 
-# ssh windhors@general.asu.edu
-# passwd: as in ASURITE
-# 
-# cd /afs/asu.edu/www/clas/hst/classes/ast322/
+# http://windhorst322.asu.edu/
+#
+# Backup files on Microjansky are on:
+#
+# http://lambda.la.asu.edu/raw/classes/ast322/
+#
+# ssh raw@microjansky.la.asu.edu
+# passwd:
+#
+# cd /var/www/lambda/raw/classes/ast322/
 
 exit
 
